@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0401-binary-watch](https://github.com/yashkotave/DSA-Practice/tree/master/0401-binary-watch) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/yashkotave/DSA-Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Sorting
 |  |
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yashkotave/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/yashkotave/DSA-Practice/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
