@@ -1,26 +1,31 @@
 class Solution {
     public int trap(int[] height) {
-        int n =height.length;
-        int leftMax=0;
-        int RightMax = 0;
-        int l =0;
-        int r = n-1;
-        int ans=0;
-        while(l<r){
-            if(height[l]>leftMax){
-                leftMax=Math.max(leftMax,height[l]);
-            }
-            if(height[r]>RightMax){
-                RightMax = Math.max(RightMax,height[r]);
-            }
-            if(leftMax<RightMax){
-                ans = ans + leftMax-height[l];
-                l++;
-            }else{
-                ans = ans+ RightMax - height[r];
-                r--;
-            }
+        if (height == null || height.length < 3) {
+            return 0; // No water can be trapped if there are less than 3 bars
         }
-        return ans;
+
+        int n = height.length;
+        int[] leftMax = new int[n];  // Stores the max height to the left of each bar
+        int[] rightMax = new int[n]; // Stores the max height to the right of each bar
+
+        // Fill leftMax array
+        leftMax[0] = height[0];
+        for (int i = 1; i < n; i++) {
+            leftMax[i] = Math.max(leftMax[i - 1], height[i]);
+        }
+
+        // Fill rightMax array
+        rightMax[n - 1] = height[n - 1];
+        for (int i = n - 2; i >= 0; i--) {
+            rightMax[i] = Math.max(rightMax[i + 1], height[i]);
+        }
+
+        // Calculate trapped water
+        int waterTrapped = 0;
+        for (int i = 0; i < n; i++) {
+            waterTrapped += Math.min(leftMax[i], rightMax[i]) - height[i];
+        }
+
+        return waterTrapped;
     }
 }
