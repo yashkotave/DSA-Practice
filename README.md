@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/yashkotave/DSA-Practice/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/yashkotave/DSA-Practice/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/yashkotave/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/yashkotave/DSA-Practice/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/yashkotave/DSA-Practice/tree/master/0202-happy-number) |
 ## Linked List
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/yashkotave/DSA-Practice/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/yashkotave/DSA-Practice/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/yashkotave/DSA-Practice/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/yashkotave/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/yashkotave/DSA-Practice/tree/master/0075-sort-colors) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/yashkotave/DSA-Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Bit Manipulation
@@ -59,4 +61,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/yashkotave/DSA-Practice/tree/master/0401-binary-watch) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/yashkotave/DSA-Practice/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/yashkotave/DSA-Practice/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/yashkotave/DSA-Practice/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
