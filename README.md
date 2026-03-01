@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/yashkotave/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/yashkotave/DSA-Practice/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/yashkotave/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/yashkotave/DSA-Practice/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/yashkotave/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/yashkotave/DSA-Practice/tree/master/0075-sort-colors) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/yashkotave/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/yashkotave/DSA-Practice/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/yashkotave/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/yashkotave/DSA-Practice/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/yashkotave/DSA-Practice/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/yashkotave/DSA-Practice/tree/master/0042-trapping-rain-water) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/yashkotave/DSA-Practice/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/yashkotave/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/yashkotave/DSA-Practice/tree/master/0075-sort-colors) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/yashkotave/DSA-Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2551-put-marbles-in-bags](https://github.com/yashkotave/DSA-Practice/tree/master/2551-put-marbles-in-bags) |
