@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/yashkotave/DSA-Practice/tree/master/0410-split-array-largest-sum) |
 | [1095-find-in-mountain-array](https://github.com/yashkotave/DSA-Practice/tree/master/1095-find-in-mountain-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/yashkotave/DSA-Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/yashkotave/DSA-Practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [2551-put-marbles-in-bags](https://github.com/yashkotave/DSA-Practice/tree/master/2551-put-marbles-in-bags) |
 | [2818-apply-operations-to-maximize-score](https://github.com/yashkotave/DSA-Practice/tree/master/2818-apply-operations-to-maximize-score) |
 ## Bit Manipulation
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/yashkotave/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/yashkotave/DSA-Practice/tree/master/0410-split-array-largest-sum) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/yashkotave/DSA-Practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/yashkotave/DSA-Practice/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2551-put-marbles-in-bags](https://github.com/yashkotave/DSA-Practice/tree/master/2551-put-marbles-in-bags) |
 | [2818-apply-operations-to-maximize-score](https://github.com/yashkotave/DSA-Practice/tree/master/2818-apply-operations-to-maximize-score) |
@@ -149,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/yashkotave/DSA-Practice/tree/master/0002-add-two-numbers) |
+## Matrix
+|  |
+| ------- |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/yashkotave/DSA-Practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 <!---LeetCode Topics End-->
