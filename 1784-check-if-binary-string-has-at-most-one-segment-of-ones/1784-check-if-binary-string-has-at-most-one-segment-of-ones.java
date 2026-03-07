@@ -1,9 +1,12 @@
 class Solution {
     public boolean checkOnesSegment(String s) {
-        char[] c = s.toCharArray();
-        for(int i = 1; i < c.length; i++) {
-            if(c[i] == '1' && c[i - 1] == '0') return false;
+        boolean flag = true;
+        for(int i=1; i<s.length(); i++){
+            if(s.charAt(i-1)=='0' && s.charAt(i)=='1'){
+                flag = false;
+            }
         }
-        return true;
+        return flag;
+
     }
 }
