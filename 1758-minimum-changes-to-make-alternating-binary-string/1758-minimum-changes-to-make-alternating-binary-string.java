@@ -1,10 +1,26 @@
 class Solution {
     public int minOperations(String s) {
-        int n = s.length(), c = 0, j = 0;
-        for(char ch : s.toCharArray()) {
-            if(ch - '0' == j) c++;
-            j ^= 1;
+        
+       int c1 = 0;
+       for(int i=0; i<s.length(); i++){
+        if(i%2==0 && s.charAt(i)=='0'){
+            c1++;
         }
-        return Math.min(c, n - c);
+         if(i%2==1 && s.charAt(i)=='1'){
+            c1++;
+        }
+       }
+
+        int c2 = 0;
+       for(int i=0; i<s.length(); i++){
+        if(i%2==0 && s.charAt(i)=='1'){
+            c2++;
+        }
+         if(i%2==1 && s.charAt(i)=='0'){
+            c2++;
+        }
+       }
+
+       return Math.min(c1 , c2);
     }
 }
