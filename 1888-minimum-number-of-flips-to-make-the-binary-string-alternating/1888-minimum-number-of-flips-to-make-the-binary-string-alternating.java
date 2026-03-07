@@ -1,16 +1,31 @@
 class Solution {
     public int minFlips(String s) {
         int n = s.length();
-        int res = n;
-        int[] op = {0, 0};
+        String ss = s + s;
 
-        for (int i = 0; i < n; i++)
-            op[(s.charAt(i) ^ i) & 1]++;
+        int alt1 = 0; // mismatches with 0101...
+        int alt2 = 0; // mismatches with 1010...
+        int res = Integer.MAX_VALUE;
 
-        for (int i = 0; i < n; i++) {
-            op[(s.charAt(i) ^ i) & 1]--;
-            op[(s.charAt(i) ^ (n + i)) & 1]++;
-            res = Math.min(res, Math.min(op[0], op[1]));
+        for(int i = 0; i < ss.length(); i++) {
+
+            char expected1 = (i % 2 == 0) ? '0' : '1';
+            char expected2 = (i % 2 == 0) ? '1' : '0';
+
+            if(ss.charAt(i) != expected1) alt1++;
+            if(ss.charAt(i) != expected2) alt2++;
+
+            if(i >= n) {
+                char prev1 = ((i-n) % 2 == 0) ? '0' : '1';
+                char prev2 = ((i-n) % 2 == 0) ? '1' : '0';
+
+                if(ss.charAt(i-n) != prev1) alt1--;
+                if(ss.charAt(i-n) != prev2) alt2--;
+            }
+
+            if(i >= n-1) {
+                res = Math.min(res, Math.min(alt1, alt2));
+            }
         }
 
         return res;
