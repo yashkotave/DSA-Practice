@@ -4,9 +4,9 @@ class Solution {
         if(nums.length<3){
             return res;
         }
-        Arrays.sort(nums);
+        Arrays.sort(nums);  // Sort array
         for(int i = 0; i<nums.length-2;i++){
-            if(i > 0 && nums[i] == nums[i-1] ) continue;
+            if(i > 0 && nums[i] == nums[i-1] ) continue;    // skip duplicates
             if(nums[i]>0) break;
 
             int left = i+ 1;
@@ -18,6 +18,8 @@ class Solution {
                     res.add(Arrays.asList(nums[i], nums[left], nums[right]));
                     left++;
                     right--;
+
+                    // skip duplicates
 
                     while(left<right && nums[left] == nums[left-1]){
                         left++;
