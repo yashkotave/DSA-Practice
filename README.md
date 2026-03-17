@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/yashkotave/DSA-Practice/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/yashkotave/DSA-Practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/yashkotave/DSA-Practice/tree/master/0202-happy-number) |
+| [0292-nim-game](https://github.com/yashkotave/DSA-Practice/tree/master/0292-nim-game) |
 | [2818-apply-operations-to-maximize-score](https://github.com/yashkotave/DSA-Practice/tree/master/2818-apply-operations-to-maximize-score) |
 | [3100-water-bottles-ii](https://github.com/yashkotave/DSA-Practice/tree/master/3100-water-bottles-ii) |
 ## Two Pointers
@@ -219,4 +220,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/yashkotave/DSA-Practice/tree/master/0918-maximum-sum-circular-subarray) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/yashkotave/DSA-Practice/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/yashkotave/DSA-Practice/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
