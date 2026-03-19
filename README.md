@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/yashkotave/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/yashkotave/DSA-Practice/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/yashkotave/DSA-Practice/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/yashkotave/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0152-maximum-product-subarray](https://github.com/yashkotave/DSA-Practice/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/yashkotave/DSA-Practice/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/yashkotave/DSA-Practice/tree/master/0198-house-robber) |
@@ -146,12 +147,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/yashkotave/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/yashkotave/DSA-Practice/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/yashkotave/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/yashkotave/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [2818-apply-operations-to-maximize-score](https://github.com/yashkotave/DSA-Practice/tree/master/2818-apply-operations-to-maximize-score) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/yashkotave/DSA-Practice/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/yashkotave/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [2818-apply-operations-to-maximize-score](https://github.com/yashkotave/DSA-Practice/tree/master/2818-apply-operations-to-maximize-score) |
 ## Rolling Hash
 |  |
