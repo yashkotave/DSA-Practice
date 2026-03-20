@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/yashkotave/DSA-Practice/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/yashkotave/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/yashkotave/DSA-Practice/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/yashkotave/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/yashkotave/DSA-Practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/yashkotave/DSA-Practice/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/yashkotave/DSA-Practice/tree/master/0234-palindrome-linked-list) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/yashkotave/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/yashkotave/DSA-Practice/tree/master/0038-count-and-say) |
 | [0076-minimum-window-substring](https://github.com/yashkotave/DSA-Practice/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/yashkotave/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0214-shortest-palindrome](https://github.com/yashkotave/DSA-Practice/tree/master/0214-shortest-palindrome) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/yashkotave/DSA-Practice/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/yashkotave/DSA-Practice/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
