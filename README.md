@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/yashkotave/DSA-Practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/yashkotave/DSA-Practice/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/yashkotave/DSA-Practice/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/yashkotave/DSA-Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1980-find-unique-binary-string](https://github.com/yashkotave/DSA-Practice/tree/master/1980-find-unique-binary-string) |
 | [2551-put-marbles-in-bags](https://github.com/yashkotave/DSA-Practice/tree/master/2551-put-marbles-in-bags) |
 | [2818-apply-operations-to-maximize-score](https://github.com/yashkotave/DSA-Practice/tree/master/2818-apply-operations-to-maximize-score) |
