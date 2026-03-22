@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/yashkotave/DSA-Practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/yashkotave/DSA-Practice/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/yashkotave/DSA-Practice/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/yashkotave/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/yashkotave/DSA-Practice/tree/master/0455-assign-cookies) |
 ## Linked List
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/yashkotave/DSA-Practice/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/yashkotave/DSA-Practice/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/yashkotave/DSA-Practice/tree/master/0198-house-robber) |
+| [0283-move-zeroes](https://github.com/yashkotave/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/yashkotave/DSA-Practice/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/yashkotave/DSA-Practice/tree/master/0455-assign-cookies) |
 | [0918-maximum-sum-circular-subarray](https://github.com/yashkotave/DSA-Practice/tree/master/0918-maximum-sum-circular-subarray) |
