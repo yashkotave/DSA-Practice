@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/yashkotave/DSA-Practice/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/yashkotave/DSA-Practice/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/yashkotave/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0136-single-number](https://github.com/yashkotave/DSA-Practice/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/yashkotave/DSA-Practice/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/yashkotave/DSA-Practice/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/yashkotave/DSA-Practice/tree/master/0198-house-robber) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/yashkotave/DSA-Practice/tree/master/0089-gray-code) |
+| [0136-single-number](https://github.com/yashkotave/DSA-Practice/tree/master/0136-single-number) |
 | [0401-binary-watch](https://github.com/yashkotave/DSA-Practice/tree/master/0401-binary-watch) |
 | [1009-complement-of-base-10-integer](https://github.com/yashkotave/DSA-Practice/tree/master/1009-complement-of-base-10-integer) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/yashkotave/DSA-Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
