@@ -5,7 +5,8 @@ class Solution {
         if(i>maxReach){
             return false;
         }
-
+                    //agar zeero ko crosss kr liya toh apn raeach kr jayega
+                
         maxReach = Math.max(maxReach,i+nums[i]);
       }
       return true;
