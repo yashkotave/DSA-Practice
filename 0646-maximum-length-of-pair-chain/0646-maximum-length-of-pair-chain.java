@@ -1,0 +1,20 @@
+class Solution {
+    public int findLongestChain(int[][] pairs) {
+
+        //sort by end time
+        Arrays.sort(pairs, (a,b)->a[1]-b[1]);
+        int count = 1;
+        int lastEnd = pairs[0][1];  // pick first pair and take b 
+        for( int i=1 ; i<pairs.length; i++){
+            if(pairs[i][0]>lastEnd){
+
+                  //c > b or start > lastend
+                count++;
+                lastEnd = pairs[i][1]; //take last pair
+            }
+
+        }
+        return count;
+
+    }
+}
