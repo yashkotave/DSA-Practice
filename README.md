@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/yashkotave/DSA-Practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/yashkotave/DSA-Practice/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/yashkotave/DSA-Practice/tree/master/0198-house-robber) |
+| [0238-product-of-array-except-self](https://github.com/yashkotave/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/yashkotave/DSA-Practice/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/yashkotave/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/yashkotave/DSA-Practice/tree/master/0410-split-array-largest-sum) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/yashkotave/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/yashkotave/DSA-Practice/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/yashkotave/DSA-Practice/tree/master/0713-subarray-product-less-than-k) |
 ## Interactive
