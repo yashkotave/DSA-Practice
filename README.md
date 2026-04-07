@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/yashkotave/DSA-Practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/yashkotave/DSA-Practice/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/yashkotave/DSA-Practice/tree/master/0198-house-robber) |
+| [0274-h-index](https://github.com/yashkotave/DSA-Practice/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/yashkotave/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/yashkotave/DSA-Practice/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/yashkotave/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/yashkotave/DSA-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/yashkotave/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/yashkotave/DSA-Practice/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/yashkotave/DSA-Practice/tree/master/0274-h-index) |
 | [0435-non-overlapping-intervals](https://github.com/yashkotave/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/yashkotave/DSA-Practice/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/yashkotave/DSA-Practice/tree/master/0646-maximum-length-of-pair-chain) |
@@ -318,4 +320,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/yashkotave/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/yashkotave/DSA-Practice/tree/master/0509-fibonacci-number) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/yashkotave/DSA-Practice/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
