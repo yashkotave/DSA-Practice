@@ -1,34 +1,14 @@
 class Solution {
     public int maximumCount(int[] nums) {
-        int n = nums.length;
-        int left = 0;
-        int  right = n - 1;
-        while (left <= right) {
-            int mid = left + (right - left) / 2;
-            if (nums[mid] > 0) {
-                right = mid - 1; 
-            } else {
-                left = mid + 1; 
+        int pos = 0;
+        int neg = 0;
+        for( int i = 0; i< nums.length; i++){
+            if(nums[i]>0){
+                pos++;
+            }else if(nums[i]<0){
+                neg++;
             }
         }
-        // Now, 'left' is the index of the first positive number
-        int positiveCount = n - left;
-
-        // Find the last negative number using binary search
-        left = 0; 
-        right = n - 1;
-        while (left <= right) {
-            int mid = left + (right - left) / 2;
-            if (nums[mid] < 0) {
-                left = mid + 1; 
-            } else {
-                right = mid - 1;
-            }
-        }
-        // Now, 'right' is the index of the last negative number
-        int negativeCount = right + 1;
-
-        // Return the maximum count of positive and negative integers
-        return Math.max(positiveCount, negativeCount);
+        return Math.max(pos,neg);
     }
 }
