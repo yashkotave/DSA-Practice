@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/yashkotave/DSA-Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1980-find-unique-binary-string](https://github.com/yashkotave/DSA-Practice/tree/master/1980-find-unique-binary-string) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/yashkotave/DSA-Practice/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yashkotave/DSA-Practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2551-put-marbles-in-bags](https://github.com/yashkotave/DSA-Practice/tree/master/2551-put-marbles-in-bags) |
 | [2818-apply-operations-to-maximize-score](https://github.com/yashkotave/DSA-Practice/tree/master/2818-apply-operations-to-maximize-score) |
 | [3169-count-days-without-meetings](https://github.com/yashkotave/DSA-Practice/tree/master/3169-count-days-without-meetings) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/yashkotave/DSA-Practice/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/yashkotave/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/yashkotave/DSA-Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yashkotave/DSA-Practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3713-longest-balanced-substring-i](https://github.com/yashkotave/DSA-Practice/tree/master/3713-longest-balanced-substring-i) |
 ## String
 |  |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/yashkotave/DSA-Practice/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/yashkotave/DSA-Practice/tree/master/0713-subarray-product-less-than-k) |
 | [1095-find-in-mountain-array](https://github.com/yashkotave/DSA-Practice/tree/master/1095-find-in-mountain-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yashkotave/DSA-Practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Greedy
 |  |
 | ------- |
