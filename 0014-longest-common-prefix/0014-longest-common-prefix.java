@@ -18,6 +18,7 @@ class Solution {
 
         for( int i = 1; i<strs.length; i++){
             res = Common(res,strs[i]);
+            if (res.equals("")) return "";
         }
         return res;
     }
