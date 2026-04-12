@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/yashkotave/DSA-Practice/tree/master/0485-max-consecutive-ones) |
 | [0646-maximum-length-of-pair-chain](https://github.com/yashkotave/DSA-Practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0713-subarray-product-less-than-k](https://github.com/yashkotave/DSA-Practice/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/yashkotave/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [0918-maximum-sum-circular-subarray](https://github.com/yashkotave/DSA-Practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/yashkotave/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1095-find-in-mountain-array](https://github.com/yashkotave/DSA-Practice/tree/master/1095-find-in-mountain-array) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/yashkotave/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/yashkotave/DSA-Practice/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/yashkotave/DSA-Practice/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/yashkotave/DSA-Practice/tree/master/0724-find-pivot-index) |
 ## Interactive
 |  |
 | ------- |
