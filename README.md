@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/yashkotave/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0525-contiguous-array](https://github.com/yashkotave/DSA-Practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/yashkotave/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
+| [0771-jewels-and-stones](https://github.com/yashkotave/DSA-Practice/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/yashkotave/DSA-Practice/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/yashkotave/DSA-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1980-find-unique-binary-string](https://github.com/yashkotave/DSA-Practice/tree/master/1980-find-unique-binary-string) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/yashkotave/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/yashkotave/DSA-Practice/tree/master/0392-is-subsequence) |
 | [0657-robot-return-to-origin](https://github.com/yashkotave/DSA-Practice/tree/master/0657-robot-return-to-origin) |
+| [0771-jewels-and-stones](https://github.com/yashkotave/DSA-Practice/tree/master/0771-jewels-and-stones) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/yashkotave/DSA-Practice/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/yashkotave/DSA-Practice/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/yashkotave/DSA-Practice/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
