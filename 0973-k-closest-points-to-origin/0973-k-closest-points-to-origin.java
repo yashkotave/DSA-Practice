@@ -1,11 +1,25 @@
 class Solution {
     public int[][] kClosest(int[][] points, int k) {
-       Arrays.sort(points,(p1,p2) -> euclideanDist(p1)-euclideanDist(p2));
-
-       return Arrays.copyOfRange(points,0,k); 
-    }
-
-    private int euclideanDist( int[]  points){
-        return points[0]*points[0] + points[1]*points[1];
+        
+        PriorityQueue<int[]> pq = new PriorityQueue<>(
+            (a, b) -> (b[0]*b[0] + b[1]*b[1]) - (a[0]*a[0] + a[1]*a[1])
+        );
+        
+        for (int[] p : points) {
+            pq.offer(p);
+            
+            if (pq.size() > k) {
+                pq.poll(); // remove farthest
+            }
+        }
+        
+        int[][] res = new int[k][2];
+        int i = 0;
+        
+        while (!pq.isEmpty()) {
+            res[i++] = pq.poll();
+        }
+        
+        return res;
     }
 }
