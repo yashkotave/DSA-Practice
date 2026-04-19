@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/yashkotave/DSA-Practice/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/yashkotave/DSA-Practice/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/yashkotave/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/yashkotave/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0228-summary-ranges](https://github.com/yashkotave/DSA-Practice/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/yashkotave/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/yashkotave/DSA-Practice/tree/master/0274-h-index) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/yashkotave/DSA-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/yashkotave/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/yashkotave/DSA-Practice/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/yashkotave/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/yashkotave/DSA-Practice/tree/master/0274-h-index) |
 | [0435-non-overlapping-intervals](https://github.com/yashkotave/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/yashkotave/DSA-Practice/tree/master/0455-assign-cookies) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/yashkotave/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [2551-put-marbles-in-bags](https://github.com/yashkotave/DSA-Practice/tree/master/2551-put-marbles-in-bags) |
 ## Number Theory
 |  |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/yashkotave/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/yashkotave/DSA-Practice/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/yashkotave/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/yashkotave/DSA-Practice/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
 |  |
@@ -386,4 +390,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/yashkotave/DSA-Practice/tree/master/0014-longest-common-prefix) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/yashkotave/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
