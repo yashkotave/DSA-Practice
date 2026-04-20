@@ -1,34 +1,27 @@
-import java.util.*;
+
 
 class Solution {
     public boolean isValid(String str) {
 
-        Stack<Character> st = new Stack<>();
-
-        for(int i = 0; i < str.length(); i++) {
-
-            char ch = str.charAt(i);
-
-            // opening brackets
-            if(ch == '(' || ch == '[' || ch == '{') {
+        Deque<Character> st=  new ArrayDeque<>();
+        for (char ch : str.toCharArray()){
+            if(ch == '(' || ch =='{' || ch == '['){
                 st.push(ch);
-            } 
-            else {
+            }
+            else{
                 if(st.isEmpty()) return false;
+                char top = st.pop();
 
-                char top = st.peek();
-
-                if((top == '(' && ch == ')') ||
-                   (top == '{' && ch == '}') ||
-                   (top == '[' && ch == ']')) {
-
-                    st.pop();
-                } else {
+                if((ch == ')' && top!='(') ||
+                (ch=='}' && top!='{')||
+                (ch == ']' && top!= '[')){
                     return false;
                 }
+
             }
         }
 
-        return st.isEmpty(); // correct final check
+
+        return st.isEmpty();
     }
 }
