@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/yashkotave/DSA-Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/yashkotave/DSA-Practice/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1980-find-unique-binary-string](https://github.com/yashkotave/DSA-Practice/tree/master/1980-find-unique-binary-string) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/yashkotave/DSA-Practice/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/yashkotave/DSA-Practice/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/yashkotave/DSA-Practice/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yashkotave/DSA-Practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/yashkotave/DSA-Practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/yashkotave/DSA-Practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/yashkotave/DSA-Practice/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/yashkotave/DSA-Practice/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2551-put-marbles-in-bags](https://github.com/yashkotave/DSA-Practice/tree/master/2551-put-marbles-in-bags) |
 | [2818-apply-operations-to-maximize-score](https://github.com/yashkotave/DSA-Practice/tree/master/2818-apply-operations-to-maximize-score) |
 ## Prefix Sum
