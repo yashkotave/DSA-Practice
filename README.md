@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/yashkotave/DSA-Practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0713-subarray-product-less-than-k](https://github.com/yashkotave/DSA-Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/yashkotave/DSA-Practice/tree/master/0724-find-pivot-index) |
+| [0896-monotonic-array](https://github.com/yashkotave/DSA-Practice/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/yashkotave/DSA-Practice/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/yashkotave/DSA-Practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/yashkotave/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
