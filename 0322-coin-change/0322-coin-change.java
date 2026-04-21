@@ -1,23 +1,25 @@
 class Solution {
     public int coinChange(int[] coins, int amount) {
-        int[] dp =  new int[amount+1];
+    //check edge case
+      if(amount<1) return 0;
 
-        //fill with large value;
+    //create Dp Array
+      int[] minCoinsDp = new int[amount+1];
 
-        for(int i = 0; i<=amount; i++){
-            dp[i] = amount+1;
-        } 
+      for( int i= 1; i<=amount; i++){
+        minCoinsDp[i]=Integer.MAX_VALUE;
 
-        dp[0] = 0; // o amount  ke liye 0 coin
+        //try each coin
+        for(int coin: coins){
+            if(coin<=i && minCoinsDp[i-coin] != Integer.MAX_VALUE){
+                minCoinsDp[i] = Math.min (minCoinsDp[i],1+minCoinsDp[i-coin]);
 
-        for( int i =1; i<=amount; i++){
-            for(int coin: coins){
-                if(i>=coin){
-                    dp[i] = Math.min(dp[i],dp[i-coin]+1);
-                }
             }
         }
-
-        return (dp[amount]>amount) ?-1 : dp[amount];
+        if(minCoinsDp[amount] == Integer.MAX_VALUE)
+        return -1;
+      }
+       return minCoinsDp[amount];
+ 
     }
 }
