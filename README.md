@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/yashkotave/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/yashkotave/DSA-Practice/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/yashkotave/DSA-Practice/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/yashkotave/DSA-Practice/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yashkotave/DSA-Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/yashkotave/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/yashkotave/DSA-Practice/tree/master/0088-merge-sorted-array) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/yashkotave/DSA-Practice/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/yashkotave/DSA-Practice/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/yashkotave/DSA-Practice/tree/master/0136-single-number) |
 | [0342-power-of-four](https://github.com/yashkotave/DSA-Practice/tree/master/0342-power-of-four) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yashkotave/DSA-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0078-subsets](https://github.com/yashkotave/DSA-Practice/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/yashkotave/DSA-Practice/tree/master/0089-gray-code) |
 | [0401-binary-watch](https://github.com/yashkotave/DSA-Practice/tree/master/0401-binary-watch) |
 | [1980-find-unique-binary-string](https://github.com/yashkotave/DSA-Practice/tree/master/1980-find-unique-binary-string) |
