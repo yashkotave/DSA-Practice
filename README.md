@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/yashkotave/DSA-Practice/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/yashkotave/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/yashkotave/DSA-Practice/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/yashkotave/DSA-Practice/tree/master/0322-coin-change) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/yashkotave/DSA-Practice/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0410-split-array-largest-sum](https://github.com/yashkotave/DSA-Practice/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/yashkotave/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/yashkotave/DSA-Practice/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/yashkotave/DSA-Practice/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/yashkotave/DSA-Practice/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/yashkotave/DSA-Practice/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/yashkotave/DSA-Practice/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/yashkotave/DSA-Practice/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/yashkotave/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
@@ -449,4 +451,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/yashkotave/DSA-Practice/tree/master/0703-kth-largest-element-in-a-stream) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/yashkotave/DSA-Practice/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
