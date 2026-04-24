@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/yashkotave/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/yashkotave/DSA-Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yashkotave/DSA-Practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2833-furthest-point-from-origin](https://github.com/yashkotave/DSA-Practice/tree/master/2833-furthest-point-from-origin) |
 | [3713-longest-balanced-substring-i](https://github.com/yashkotave/DSA-Practice/tree/master/3713-longest-balanced-substring-i) |
 ## String
 |  |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/yashkotave/DSA-Practice/tree/master/1980-find-unique-binary-string) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/yashkotave/DSA-Practice/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/yashkotave/DSA-Practice/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2833-furthest-point-from-origin](https://github.com/yashkotave/DSA-Practice/tree/master/2833-furthest-point-from-origin) |
 | [3713-longest-balanced-substring-i](https://github.com/yashkotave/DSA-Practice/tree/master/3713-longest-balanced-substring-i) |
 ## Sliding Window
 |  |
