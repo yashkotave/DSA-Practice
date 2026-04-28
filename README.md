@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0400-nth-digit](https://github.com/yashkotave/DSA-Practice/tree/master/0400-nth-digit) |
 | [0509-fibonacci-number](https://github.com/yashkotave/DSA-Practice/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/yashkotave/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/yashkotave/DSA-Practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2818-apply-operations-to-maximize-score](https://github.com/yashkotave/DSA-Practice/tree/master/2818-apply-operations-to-maximize-score) |
 | [3100-water-bottles-ii](https://github.com/yashkotave/DSA-Practice/tree/master/3100-water-bottles-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/yashkotave/DSA-Practice/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/yashkotave/DSA-Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/yashkotave/DSA-Practice/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1980-find-unique-binary-string](https://github.com/yashkotave/DSA-Practice/tree/master/1980-find-unique-binary-string) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/yashkotave/DSA-Practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/yashkotave/DSA-Practice/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/yashkotave/DSA-Practice/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/yashkotave/DSA-Practice/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/yashkotave/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/yashkotave/DSA-Practice/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/yashkotave/DSA-Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/yashkotave/DSA-Practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2551-put-marbles-in-bags](https://github.com/yashkotave/DSA-Practice/tree/master/2551-put-marbles-in-bags) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/yashkotave/DSA-Practice/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2818-apply-operations-to-maximize-score](https://github.com/yashkotave/DSA-Practice/tree/master/2818-apply-operations-to-maximize-score) |
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/yashkotave/DSA-Practice/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/yashkotave/DSA-Practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/yashkotave/DSA-Practice/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/yashkotave/DSA-Practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Simulation
 |  |
 | ------- |
