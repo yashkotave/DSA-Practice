@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/yashkotave/DSA-Practice/tree/master/0396-rotate-function) |
 | [0400-nth-digit](https://github.com/yashkotave/DSA-Practice/tree/master/0400-nth-digit) |
 | [0509-fibonacci-number](https://github.com/yashkotave/DSA-Practice/tree/master/0509-fibonacci-number) |
+| [0788-rotated-digits](https://github.com/yashkotave/DSA-Practice/tree/master/0788-rotated-digits) |
 | [0973-k-closest-points-to-origin](https://github.com/yashkotave/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/yashkotave/DSA-Practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2818-apply-operations-to-maximize-score](https://github.com/yashkotave/DSA-Practice/tree/master/2818-apply-operations-to-maximize-score) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/yashkotave/DSA-Practice/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/yashkotave/DSA-Practice/tree/master/0518-coin-change-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/yashkotave/DSA-Practice/tree/master/0646-maximum-length-of-pair-chain) |
+| [0788-rotated-digits](https://github.com/yashkotave/DSA-Practice/tree/master/0788-rotated-digits) |
 | [0918-maximum-sum-circular-subarray](https://github.com/yashkotave/DSA-Practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/yashkotave/DSA-Practice/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/yashkotave/DSA-Practice/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
