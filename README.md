@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/yashkotave/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/yashkotave/DSA-Practice/tree/master/0657-robot-return-to-origin) |
 | [0771-jewels-and-stones](https://github.com/yashkotave/DSA-Practice/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/yashkotave/DSA-Practice/tree/master/0796-rotate-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/yashkotave/DSA-Practice/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/yashkotave/DSA-Practice/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/yashkotave/DSA-Practice/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yashkotave/DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/yashkotave/DSA-Practice/tree/master/0214-shortest-palindrome) |
+| [0796-rotate-string](https://github.com/yashkotave/DSA-Practice/tree/master/0796-rotate-string) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/yashkotave/DSA-Practice/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Hash Function
 |  |
