@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/yashkotave/DSA-Practice/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/yashkotave/DSA-Practice/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/yashkotave/DSA-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1207-unique-number-of-occurrences](https://github.com/yashkotave/DSA-Practice/tree/master/1207-unique-number-of-occurrences) |
 | [1796-second-largest-digit-in-a-string](https://github.com/yashkotave/DSA-Practice/tree/master/1796-second-largest-digit-in-a-string) |
 | [1980-find-unique-binary-string](https://github.com/yashkotave/DSA-Practice/tree/master/1980-find-unique-binary-string) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/yashkotave/DSA-Practice/tree/master/2780-minimum-index-of-a-valid-split) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yashkotave/DSA-Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/yashkotave/DSA-Practice/tree/master/1095-find-in-mountain-array) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/yashkotave/DSA-Practice/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1207-unique-number-of-occurrences](https://github.com/yashkotave/DSA-Practice/tree/master/1207-unique-number-of-occurrences) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/yashkotave/DSA-Practice/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/yashkotave/DSA-Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/yashkotave/DSA-Practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
