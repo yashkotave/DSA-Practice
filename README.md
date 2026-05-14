@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/yashkotave/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/yashkotave/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/yashkotave/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/yashkotave/DSA-Practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/yashkotave/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0525-contiguous-array](https://github.com/yashkotave/DSA-Practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/yashkotave/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/yashkotave/DSA-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/yashkotave/DSA-Practice/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/yashkotave/DSA-Practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/yashkotave/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/yashkotave/DSA-Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yashkotave/DSA-Practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/yashkotave/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/yashkotave/DSA-Practice/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/yashkotave/DSA-Practice/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/yashkotave/DSA-Practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/yashkotave/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/yashkotave/DSA-Practice/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/yashkotave/DSA-Practice/tree/master/0567-permutation-in-string) |
