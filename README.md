@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/yashkotave/DSA-Practice/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/yashkotave/DSA-Practice/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/yashkotave/DSA-Practice/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/yashkotave/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/yashkotave/DSA-Practice/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/yashkotave/DSA-Practice/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/yashkotave/DSA-Practice/tree/master/0078-subsets) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/yashkotave/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/yashkotave/DSA-Practice/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/yashkotave/DSA-Practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/yashkotave/DSA-Practice/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/yashkotave/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/yashkotave/DSA-Practice/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/yashkotave/DSA-Practice/tree/master/0657-robot-return-to-origin) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/yashkotave/DSA-Practice/tree/master/1545-find-kth-bit-in-nth-binary-string) |
