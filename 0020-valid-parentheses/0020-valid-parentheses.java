@@ -1,5 +1,3 @@
-
-
 class Solution {
     public boolean isValid(String str) {
 
