@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/yashkotave/DSA-Practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/yashkotave/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0646-maximum-length-of-pair-chain](https://github.com/yashkotave/DSA-Practice/tree/master/0646-maximum-length-of-pair-chain) |
+| [0704-binary-search](https://github.com/yashkotave/DSA-Practice/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/yashkotave/DSA-Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/yashkotave/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [0896-monotonic-array](https://github.com/yashkotave/DSA-Practice/tree/master/0896-monotonic-array) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/yashkotave/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0400-nth-digit](https://github.com/yashkotave/DSA-Practice/tree/master/0400-nth-digit) |
 | [0410-split-array-largest-sum](https://github.com/yashkotave/DSA-Practice/tree/master/0410-split-array-largest-sum) |
+| [0704-binary-search](https://github.com/yashkotave/DSA-Practice/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/yashkotave/DSA-Practice/tree/master/0713-subarray-product-less-than-k) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yashkotave/DSA-Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/yashkotave/DSA-Practice/tree/master/1095-find-in-mountain-array) |
