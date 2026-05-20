@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/yashkotave/DSA-Practice/tree/master/0788-rotated-digits) |
 | [0973-k-closest-points-to-origin](https://github.com/yashkotave/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/yashkotave/DSA-Practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2396-strictly-palindromic-number](https://github.com/yashkotave/DSA-Practice/tree/master/2396-strictly-palindromic-number) |
 | [2818-apply-operations-to-maximize-score](https://github.com/yashkotave/DSA-Practice/tree/master/2818-apply-operations-to-maximize-score) |
 | [3100-water-bottles-ii](https://github.com/yashkotave/DSA-Practice/tree/master/3100-water-bottles-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/yashkotave/DSA-Practice/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/yashkotave/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/yashkotave/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/yashkotave/DSA-Practice/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2396-strictly-palindromic-number](https://github.com/yashkotave/DSA-Practice/tree/master/2396-strictly-palindromic-number) |
 ## Linked List
 |  |
 | ------- |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/yashkotave/DSA-Practice/tree/master/0292-nim-game) |
+| [2396-strictly-palindromic-number](https://github.com/yashkotave/DSA-Practice/tree/master/2396-strictly-palindromic-number) |
 ## Game Theory
 |  |
 | ------- |
