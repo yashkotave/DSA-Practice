@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/yashkotave/DSA-Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/yashkotave/DSA-Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/yashkotave/DSA-Practice/tree/master/0509-fibonacci-number) |
+| [0672-bulb-switcher-ii](https://github.com/yashkotave/DSA-Practice/tree/master/0672-bulb-switcher-ii) |
 | [0788-rotated-digits](https://github.com/yashkotave/DSA-Practice/tree/master/0788-rotated-digits) |
 | [0973-k-closest-points-to-origin](https://github.com/yashkotave/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/yashkotave/DSA-Practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/yashkotave/DSA-Practice/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/yashkotave/DSA-Practice/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/yashkotave/DSA-Practice/tree/master/0401-binary-watch) |
+| [0672-bulb-switcher-ii](https://github.com/yashkotave/DSA-Practice/tree/master/0672-bulb-switcher-ii) |
 | [1009-complement-of-base-10-integer](https://github.com/yashkotave/DSA-Practice/tree/master/1009-complement-of-base-10-integer) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/yashkotave/DSA-Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Sorting
@@ -537,4 +539,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/yashkotave/DSA-Practice/tree/master/0322-coin-change) |
+| [0672-bulb-switcher-ii](https://github.com/yashkotave/DSA-Practice/tree/master/0672-bulb-switcher-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0672-bulb-switcher-ii](https://github.com/yashkotave/DSA-Practice/tree/master/0672-bulb-switcher-ii) |
 <!---LeetCode Topics End-->
