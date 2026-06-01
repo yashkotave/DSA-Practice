@@ -1,14 +1,18 @@
 class Solution {
-    public int minimumCost(int[] cst) {
-        Arrays.sort(cst);
+    public int minimumCost(int[] cost) {
+
+        Arrays.sort(cost);
 
         int ans = 0;
         int idx = 0;
 
-        for (int i = cst.length - 1; i >= 0; i--) {
+        for (int i = cost.length - 1; i >= 0; i--) {
+
+            // Every 3rd candy is free
             if (idx % 3 != 2) {
-                ans += cst[i];
+                ans += cost[i];
             }
+
             idx++;
         }
 
