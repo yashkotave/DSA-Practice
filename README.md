@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/yashkotave/DSA-Practice/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/yashkotave/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/yashkotave/DSA-Practice/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/yashkotave/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/yashkotave/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/yashkotave/DSA-Practice/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/yashkotave/DSA-Practice/tree/master/0455-assign-cookies) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/yashkotave/DSA-Practice/tree/master/0239-sliding-window-maximum) |
 | [0274-h-index](https://github.com/yashkotave/DSA-Practice/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/yashkotave/DSA-Practice/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/yashkotave/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/yashkotave/DSA-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/yashkotave/DSA-Practice/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/yashkotave/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/yashkotave/DSA-Practice/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/yashkotave/DSA-Practice/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/yashkotave/DSA-Practice/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/yashkotave/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/yashkotave/DSA-Practice/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/yashkotave/DSA-Practice/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/yashkotave/DSA-Practice/tree/master/0401-binary-watch) |
@@ -417,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/yashkotave/DSA-Practice/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yashkotave/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/yashkotave/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/yashkotave/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/yashkotave/DSA-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/yashkotave/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0400-nth-digit](https://github.com/yashkotave/DSA-Practice/tree/master/0400-nth-digit) |
