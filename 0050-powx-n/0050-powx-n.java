@@ -1,20 +1,28 @@
 class Solution {
     public double myPow(double x, int n) {
-        long N = n; // int overflow avoid karne ke liye long liya
-        return solve(x, N);
-    }
 
-    public double solve(double x, long n) {
-        if (n == 0) return 1;
+        long N = n;
+        double ans = 1.0;
+
+        if (N < 0) {
+            N = -N;
+        }
+
+        while (N > 0) {
+
+            if (N % 2 == 1) {
+                ans = ans * x;
+                N--;
+            } else {
+                x = x * x;
+                N /= 2;
+            }
+        }
 
         if (n < 0) {
-            return solve(1 / x, -n); // handle negative case
+            ans = 1.0 / ans;
         }
 
-        if (n % 2 == 0) {
-            return solve(x * x, n / 2); // if n is even
-        }
-
-        return x * solve(x * x, (n - 1) / 2); // if n is odd
+        return ans;
     }
 }
