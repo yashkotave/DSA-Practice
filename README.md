@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/yashkotave/DSA-Practice/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/yashkotave/DSA-Practice/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/yashkotave/DSA-Practice/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/yashkotave/DSA-Practice/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/yashkotave/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/yashkotave/DSA-Practice/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/yashkotave/DSA-Practice/tree/master/0342-power-of-four) |
@@ -536,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/yashkotave/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/yashkotave/DSA-Practice/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/yashkotave/DSA-Practice/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yashkotave/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/yashkotave/DSA-Practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/yashkotave/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
