@@ -1,24 +1,13 @@
 class Solution {
     public int majorityElement(int[] nums) {
-        int candidate = 0;
-        int count = 0;
-// Ek candidate aur count maintain karo.
-// Same element mile → count++
-// Different mile → count--
-// Count 0 → new candidate
-        for (int i = 0; i < nums.length; i++) {
+      HashMap<Integer,Integer> map = new HashMap<>();
+    for (int num: nums){
+        map.put(num,map.getOrDefault(num,0)+1);
 
-            if (count == 0) {
-                candidate = nums[i];
-            }
-
-            if (nums[i] == candidate) {
-                count++;
-            } else {
-                count--;
-            }
+        if(map.get(num)> nums.length/2){
+            return num;
         }
-
-        return candidate;
+    }
+    return -1;
     }
 }
