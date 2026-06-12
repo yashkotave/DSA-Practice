@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/yashkotave/DSA-Practice/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0396-rotate-function](https://github.com/yashkotave/DSA-Practice/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/yashkotave/DSA-Practice/tree/master/0410-split-array-largest-sum) |
+| [0414-third-maximum-number](https://github.com/yashkotave/DSA-Practice/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/yashkotave/DSA-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/yashkotave/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/yashkotave/DSA-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/yashkotave/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/yashkotave/DSA-Practice/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/yashkotave/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/yashkotave/DSA-Practice/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/yashkotave/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/yashkotave/DSA-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/yashkotave/DSA-Practice/tree/master/0455-assign-cookies) |
