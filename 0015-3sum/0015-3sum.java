@@ -16,11 +16,12 @@ class Solution {
 
             int left = i + 1;
             int right = nums.length - 1;
+            int target= -nums[i];
 
             while(left < right) {
-                int sum = nums[i] + nums[left] + nums[right];
+                int sum = nums[left] + nums[right];
 
-                if(sum == 0) {
+                if(sum == target) {
                     res.add(Arrays.asList(nums[i], nums[left], nums[right]));
 
                     left++;
@@ -30,7 +31,7 @@ class Solution {
                     while(left < right && nums[left] == nums[left - 1]) left++;
                     while(left < right && nums[right] == nums[right + 1]) right--;
                 }
-                else if(sum < 0) {
+                else if(sum < target) {
                     left++;
                 }
                 else {
