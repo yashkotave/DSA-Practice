@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/yashkotave/DSA-Practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2396-strictly-palindromic-number](https://github.com/yashkotave/DSA-Practice/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/yashkotave/DSA-Practice/tree/master/2413-smallest-even-multiple) |
+| [2469-convert-the-temperature](https://github.com/yashkotave/DSA-Practice/tree/master/2469-convert-the-temperature) |
 | [2818-apply-operations-to-maximize-score](https://github.com/yashkotave/DSA-Practice/tree/master/2818-apply-operations-to-maximize-score) |
 | [3100-water-bottles-ii](https://github.com/yashkotave/DSA-Practice/tree/master/3100-water-bottles-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/yashkotave/DSA-Practice/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
