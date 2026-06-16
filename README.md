@@ -357,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2185-counting-words-with-a-given-prefix](https://github.com/yashkotave/DSA-Practice/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/yashkotave/DSA-Practice/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/yashkotave/DSA-Practice/tree/master/2833-furthest-point-from-origin) |
+| [3612-process-string-with-special-operations-i](https://github.com/yashkotave/DSA-Practice/tree/master/3612-process-string-with-special-operations-i) |
 | [3713-longest-balanced-substring-i](https://github.com/yashkotave/DSA-Practice/tree/master/3713-longest-balanced-substring-i) |
 ## Sliding Window
 |  |
@@ -552,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/yashkotave/DSA-Practice/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2460-apply-operations-to-an-array](https://github.com/yashkotave/DSA-Practice/tree/master/2460-apply-operations-to-an-array) |
 | [3100-water-bottles-ii](https://github.com/yashkotave/DSA-Practice/tree/master/3100-water-bottles-ii) |
+| [3612-process-string-with-special-operations-i](https://github.com/yashkotave/DSA-Practice/tree/master/3612-process-string-with-special-operations-i) |
 ## Enumeration
 |  |
 | ------- |
