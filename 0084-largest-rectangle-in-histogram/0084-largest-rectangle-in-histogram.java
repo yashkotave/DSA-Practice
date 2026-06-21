@@ -34,6 +34,9 @@ class Solution {
             s.push(i);
         }
 
+
+        //large
+
         //current area  width = j-i-1 nsr[i] -nsl[i]=1;
 
         for( int i = 0 ;i<heights.length; i++){
