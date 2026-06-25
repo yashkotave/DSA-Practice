@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-second-largest-digit-in-a-string](https://github.com/yashkotave/DSA-Practice/tree/master/1796-second-largest-digit-in-a-string) |
 | [1980-find-unique-binary-string](https://github.com/yashkotave/DSA-Practice/tree/master/1980-find-unique-binary-string) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/yashkotave/DSA-Practice/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2540-minimum-common-value](https://github.com/yashkotave/DSA-Practice/tree/master/2540-minimum-common-value) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/yashkotave/DSA-Practice/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/yashkotave/DSA-Practice/tree/master/2780-minimum-index-of-a-valid-split) |
 | [3713-longest-balanced-substring-i](https://github.com/yashkotave/DSA-Practice/tree/master/3713-longest-balanced-substring-i) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/yashkotave/DSA-Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2396-strictly-palindromic-number](https://github.com/yashkotave/DSA-Practice/tree/master/2396-strictly-palindromic-number) |
 | [2460-apply-operations-to-an-array](https://github.com/yashkotave/DSA-Practice/tree/master/2460-apply-operations-to-an-array) |
+| [2540-minimum-common-value](https://github.com/yashkotave/DSA-Practice/tree/master/2540-minimum-common-value) |
 ## Linked List
 |  |
 | ------- |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2460-apply-operations-to-an-array](https://github.com/yashkotave/DSA-Practice/tree/master/2460-apply-operations-to-an-array) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/yashkotave/DSA-Practice/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yashkotave/DSA-Practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2540-minimum-common-value](https://github.com/yashkotave/DSA-Practice/tree/master/2540-minimum-common-value) |
 | [2551-put-marbles-in-bags](https://github.com/yashkotave/DSA-Practice/tree/master/2551-put-marbles-in-bags) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/yashkotave/DSA-Practice/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/yashkotave/DSA-Practice/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -479,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/yashkotave/DSA-Practice/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/yashkotave/DSA-Practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yashkotave/DSA-Practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2540-minimum-common-value](https://github.com/yashkotave/DSA-Practice/tree/master/2540-minimum-common-value) |
 ## Greedy
 |  |
 | ------- |
