@@ -1,14 +1,17 @@
 class Solution {
     public char repeatedCharacter(String s) {
-       HashSet<Character> set = new HashSet<>();
-       for (char ch : s.toCharArray()){
-        if(set.contains(ch)){
-            return ch ;
+
+        Queue<Character> q = new LinkedList<>();
+
+        for(char ch : s.toCharArray()) {
+
+            if(q.contains(ch)) {
+                return ch;
+            }
+
+            q.offer(ch);
         }
 
-        set.add(ch);
-       }
-
-       return ' ';
+        return ' ';
     }
 }
