@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/yashkotave/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/yashkotave/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/yashkotave/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/yashkotave/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/yashkotave/DSA-Practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/yashkotave/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/yashkotave/DSA-Practice/tree/master/0409-longest-palindrome) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/yashkotave/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/yashkotave/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/yashkotave/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/yashkotave/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/yashkotave/DSA-Practice/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/yashkotave/DSA-Practice/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/yashkotave/DSA-Practice/tree/master/0567-permutation-in-string) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/yashkotave/DSA-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/yashkotave/DSA-Practice/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/yashkotave/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/yashkotave/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/yashkotave/DSA-Practice/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0396-rotate-function](https://github.com/yashkotave/DSA-Practice/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/yashkotave/DSA-Practice/tree/master/0410-split-array-largest-sum) |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/yashkotave/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/yashkotave/DSA-Practice/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/yashkotave/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/yashkotave/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/yashkotave/DSA-Practice/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/yashkotave/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/yashkotave/DSA-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -475,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/yashkotave/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/yashkotave/DSA-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/yashkotave/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/yashkotave/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/yashkotave/DSA-Practice/tree/master/0374-guess-number-higher-or-lower) |
 | [0400-nth-digit](https://github.com/yashkotave/DSA-Practice/tree/master/0400-nth-digit) |
 | [0410-split-array-largest-sum](https://github.com/yashkotave/DSA-Practice/tree/master/0410-split-array-largest-sum) |
