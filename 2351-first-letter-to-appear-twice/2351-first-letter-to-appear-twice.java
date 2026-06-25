@@ -1,15 +1,15 @@
 class Solution {
     public char repeatedCharacter(String s) {
 
-        Queue<Character> q = new LinkedList<>();
+        boolean[] seen = new boolean[26];
 
         for(char ch : s.toCharArray()) {
 
-            if(q.contains(ch)) {
+            if(seen[ch - 'a']) {
                 return ch;
             }
 
-            q.offer(ch);
+            seen[ch - 'a'] = true;
         }
 
         return ' ';
