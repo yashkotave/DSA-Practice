@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/yashkotave/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/yashkotave/DSA-Practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/yashkotave/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/yashkotave/DSA-Practice/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/yashkotave/DSA-Practice/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/yashkotave/DSA-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0525-contiguous-array](https://github.com/yashkotave/DSA-Practice/tree/master/0525-contiguous-array) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/yashkotave/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/yashkotave/DSA-Practice/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/yashkotave/DSA-Practice/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/yashkotave/DSA-Practice/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/yashkotave/DSA-Practice/tree/master/0401-binary-watch) |
 | [0672-bulb-switcher-ii](https://github.com/yashkotave/DSA-Practice/tree/master/0672-bulb-switcher-ii) |
 | [1009-complement-of-base-10-integer](https://github.com/yashkotave/DSA-Practice/tree/master/1009-complement-of-base-10-integer) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/yashkotave/DSA-Practice/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/yashkotave/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yashkotave/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/yashkotave/DSA-Practice/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/yashkotave/DSA-Practice/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/yashkotave/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/yashkotave/DSA-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/yashkotave/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/yashkotave/DSA-Practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/yashkotave/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/yashkotave/DSA-Practice/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/yashkotave/DSA-Practice/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/yashkotave/DSA-Practice/tree/master/0409-longest-palindrome) |
 | [0504-base-7](https://github.com/yashkotave/DSA-Practice/tree/master/0504-base-7) |
