@@ -22,7 +22,7 @@ class Solution {
         if(root.left == null) return minDepth(root.right)+1;
         //only left subtree exists
         if(root.right == null) return minDepth(root.left)+1;
-
+    //recursively call lagege
      return Math.min(
                 minDepth(root.left),
                 minDepth(root.right)
