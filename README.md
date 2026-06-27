@@ -381,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/yashkotave/DSA-Practice/tree/master/1980-find-unique-binary-string) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/yashkotave/DSA-Practice/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2351-first-letter-to-appear-twice](https://github.com/yashkotave/DSA-Practice/tree/master/2351-first-letter-to-appear-twice) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/yashkotave/DSA-Practice/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/yashkotave/DSA-Practice/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/yashkotave/DSA-Practice/tree/master/2833-furthest-point-from-origin) |
 | [3612-process-string-with-special-operations-i](https://github.com/yashkotave/DSA-Practice/tree/master/3612-process-string-with-special-operations-i) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/yashkotave/DSA-Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/yashkotave/DSA-Practice/tree/master/0904-fruit-into-baskets) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/yashkotave/DSA-Practice/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/yashkotave/DSA-Practice/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Backtracking
 |  |
 | ------- |
