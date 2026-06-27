@@ -5,7 +5,23 @@ class Solution {
         if (root == null) {
             return 0;
         }
+// Diameter = Number of EDGES
 
+// Therefore:
+
+// int selfDiameter = leftHeight + rightHeight;
+
+// NOT
+
+// leftHeight + rightHeight + 1
+
+// because +1 gives diameter in terms of nodes.
+
+// Complexity
+// Time  : O(N²)
+// Space : O(H)
+
+// where H is the height of the tree.
         int leftDiameter = diameterOfBinaryTree(root.left);
         int rightDiameter = diameterOfBinaryTree(root.right);
 
