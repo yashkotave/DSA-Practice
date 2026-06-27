@@ -14,7 +14,8 @@
  * }
  */
 class Solution {
-    public boolean isBalanced(TreeNode root) {
+    //o(N^2) 
+    /*public boolean isBalanced(TreeNode root) {
         if(root == null) return true;
         int lh = height(root.left);
         int rh = height (root.right);
@@ -28,5 +29,18 @@ class Solution {
         if(root == null) return 0;
 
         return Math.max(height(root.left),height(root.right))+1;
+    } */
+    //optimized O(N)
+    public boolean isBalanced(TreeNode root) {
+        if(root == null) return true;
+        return height(root) != -1;
     } 
+    public int height(TreeNode root){
+        if(root == null) return 0;
+        int left = height(root.left);
+        int right = height(root.right);
+        int balanced = Math.abs(left - right);
+        if(balanced>1 || left == -1 || right == -1) return -1;
+        return 1 + Math.max(left,right);
+    }
 }
