@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/yashkotave/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/yashkotave/DSA-Practice/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/yashkotave/DSA-Practice/tree/master/0646-maximum-length-of-pair-chain) |
+| [0682-baseball-game](https://github.com/yashkotave/DSA-Practice/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/yashkotave/DSA-Practice/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/yashkotave/DSA-Practice/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/yashkotave/DSA-Practice/tree/master/0713-subarray-product-less-than-k) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/yashkotave/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yashkotave/DSA-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/yashkotave/DSA-Practice/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/yashkotave/DSA-Practice/tree/master/0682-baseball-game) |
 | [2818-apply-operations-to-maximize-score](https://github.com/yashkotave/DSA-Practice/tree/master/2818-apply-operations-to-maximize-score) |
 ## Monotonic Stack
 |  |
@@ -593,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/yashkotave/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/yashkotave/DSA-Practice/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/yashkotave/DSA-Practice/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/yashkotave/DSA-Practice/tree/master/0682-baseball-game) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/yashkotave/DSA-Practice/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2460-apply-operations-to-an-array](https://github.com/yashkotave/DSA-Practice/tree/master/2460-apply-operations-to-an-array) |
 | [3100-water-bottles-ii](https://github.com/yashkotave/DSA-Practice/tree/master/3100-water-bottles-ii) |
