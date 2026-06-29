@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/yashkotave/DSA-Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/yashkotave/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/yashkotave/DSA-Practice/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/yashkotave/DSA-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/yashkotave/DSA-Practice/tree/master/1980-find-unique-binary-string) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/yashkotave/DSA-Practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/yashkotave/DSA-Practice/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/yashkotave/DSA-Practice/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1796-second-largest-digit-in-a-string](https://github.com/yashkotave/DSA-Practice/tree/master/1796-second-largest-digit-in-a-string) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/yashkotave/DSA-Practice/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/yashkotave/DSA-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/yashkotave/DSA-Practice/tree/master/1980-find-unique-binary-string) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/yashkotave/DSA-Practice/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2351-first-letter-to-appear-twice](https://github.com/yashkotave/DSA-Practice/tree/master/2351-first-letter-to-appear-twice) |
