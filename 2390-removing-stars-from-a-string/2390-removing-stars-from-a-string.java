@@ -3,6 +3,7 @@ class Solution {
        StringBuilder sb = new StringBuilder();
        for(char ch :s.toCharArray()){
         if(ch == '*'){
+            //last meka hatane ke liye
             if(sb.length()>0){
             sb.deleteCharAt(sb.length()-1);
             }
