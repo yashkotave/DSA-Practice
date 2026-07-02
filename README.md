@@ -490,12 +490,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yashkotave/DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/yashkotave/DSA-Practice/tree/master/0214-shortest-palindrome) |
+| [0572-subtree-of-another-tree](https://github.com/yashkotave/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
 | [0796-rotate-string](https://github.com/yashkotave/DSA-Practice/tree/master/0796-rotate-string) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/yashkotave/DSA-Practice/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/yashkotave/DSA-Practice/tree/master/0214-shortest-palindrome) |
+| [0572-subtree-of-another-tree](https://github.com/yashkotave/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
 ## Binary Search
 |  |
 | ------- |
@@ -703,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/yashkotave/DSA-Practice/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/yashkotave/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/yashkotave/DSA-Practice/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/yashkotave/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/yashkotave/DSA-Practice/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1302-deepest-leaves-sum](https://github.com/yashkotave/DSA-Practice/tree/master/1302-deepest-leaves-sum) |
 ## Design
@@ -729,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/yashkotave/DSA-Practice/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/yashkotave/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/yashkotave/DSA-Practice/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/yashkotave/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/yashkotave/DSA-Practice/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1302-deepest-leaves-sum](https://github.com/yashkotave/DSA-Practice/tree/master/1302-deepest-leaves-sum) |
 ## Data Stream
@@ -762,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/yashkotave/DSA-Practice/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/yashkotave/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/yashkotave/DSA-Practice/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/yashkotave/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
 | [0672-bulb-switcher-ii](https://github.com/yashkotave/DSA-Practice/tree/master/0672-bulb-switcher-ii) |
 | [1302-deepest-leaves-sum](https://github.com/yashkotave/DSA-Practice/tree/master/1302-deepest-leaves-sum) |
 ## Sweep Line
