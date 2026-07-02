@@ -1,17 +1,10 @@
 class Solution {
     public int findTheWinner(int n, int k) {
-        Queue<Integer>  q = new LinkedList<>();
+        //recursive base case
+        if(n==1) return 1;
 
-        for(int i =1 ;i<=n; i++){
-            q.offer(i);
-        }
-
-        while(q.size()>1){
-            for(int i =1; i<k; i++){
-                q.offer(q.poll());
-            }
-            q.poll();
-        }
-        return q.peek();
+        // josephus formula 
+        
+        return (findTheWinner(n-1,k) + k-1)%n+1;
     }
 }
