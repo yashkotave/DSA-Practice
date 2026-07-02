@@ -707,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/yashkotave/DSA-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/yashkotave/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/yashkotave/DSA-Practice/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0872-leaf-similar-trees](https://github.com/yashkotave/DSA-Practice/tree/master/0872-leaf-similar-trees) |
 | [1302-deepest-leaves-sum](https://github.com/yashkotave/DSA-Practice/tree/master/1302-deepest-leaves-sum) |
 ## Design
 |  |
@@ -734,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/yashkotave/DSA-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/yashkotave/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/yashkotave/DSA-Practice/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0872-leaf-similar-trees](https://github.com/yashkotave/DSA-Practice/tree/master/0872-leaf-similar-trees) |
 | [1302-deepest-leaves-sum](https://github.com/yashkotave/DSA-Practice/tree/master/1302-deepest-leaves-sum) |
 ## Data Stream
 |  |
@@ -768,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/yashkotave/DSA-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/yashkotave/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
 | [0672-bulb-switcher-ii](https://github.com/yashkotave/DSA-Practice/tree/master/0672-bulb-switcher-ii) |
+| [0872-leaf-similar-trees](https://github.com/yashkotave/DSA-Practice/tree/master/0872-leaf-similar-trees) |
 | [1302-deepest-leaves-sum](https://github.com/yashkotave/DSA-Practice/tree/master/1302-deepest-leaves-sum) |
 ## Sweep Line
 |  |
