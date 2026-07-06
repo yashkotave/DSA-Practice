@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-find-in-mountain-array](https://github.com/yashkotave/DSA-Practice/tree/master/1095-find-in-mountain-array) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/yashkotave/DSA-Practice/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1207-unique-number-of-occurrences](https://github.com/yashkotave/DSA-Practice/tree/master/1207-unique-number-of-occurrences) |
+| [1288-remove-covered-intervals](https://github.com/yashkotave/DSA-Practice/tree/master/1288-remove-covered-intervals) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/yashkotave/DSA-Practice/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/yashkotave/DSA-Practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/yashkotave/DSA-Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/yashkotave/DSA-Practice/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/yashkotave/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/yashkotave/DSA-Practice/tree/master/1051-height-checker) |
+| [1288-remove-covered-intervals](https://github.com/yashkotave/DSA-Practice/tree/master/1288-remove-covered-intervals) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/yashkotave/DSA-Practice/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/yashkotave/DSA-Practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/yashkotave/DSA-Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
