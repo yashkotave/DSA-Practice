@@ -1,7 +1,7 @@
 class Solution {
     public int removeCoveredIntervals(int[][] intervals) {
         Arrays.sort(intervals,(a,b)-> {
-            if(a[0]==b[0]){
+            if(a[0]==b[0]){//start increasing me agar same ho toh end decresing me
                 return b[1]-a[1];
             }
             return a[0]-b[0];
