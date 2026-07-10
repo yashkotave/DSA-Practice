@@ -1,0 +1,23 @@
+class Solution {
+    public int[] finalPrices(int[] prices) {
+        int n=prices.length;
+        int[] answer=new int[n];
+        int i,j;
+        int sum=0,k=0;
+        for(i=0;i<n;i++)
+        {
+           answer[i]=prices[i];
+           j=i+1;
+           while(j<n)
+           {
+              if(prices[j]<=prices[i])
+              {
+                answer[i]=prices[i]-prices[j];
+                break;
+              }
+              j++;
+           }
+        }
+        return answer;
+    }
+}
