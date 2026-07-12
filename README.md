@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/yashkotave/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/yashkotave/DSA-Practice/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/yashkotave/DSA-Practice/tree/master/0746-min-cost-climbing-stairs) |
+| [0860-lemonade-change](https://github.com/yashkotave/DSA-Practice/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/yashkotave/DSA-Practice/tree/master/0881-boats-to-save-people) |
 | [0896-monotonic-array](https://github.com/yashkotave/DSA-Practice/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/yashkotave/DSA-Practice/tree/master/0904-fruit-into-baskets) |
@@ -588,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/yashkotave/DSA-Practice/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/yashkotave/DSA-Practice/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/yashkotave/DSA-Practice/tree/master/0646-maximum-length-of-pair-chain) |
+| [0860-lemonade-change](https://github.com/yashkotave/DSA-Practice/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/yashkotave/DSA-Practice/tree/master/0881-boats-to-save-people) |
 | [0976-largest-perimeter-triangle](https://github.com/yashkotave/DSA-Practice/tree/master/0976-largest-perimeter-triangle) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/yashkotave/DSA-Practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
