@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2744-find-maximum-number-of-string-pairs](https://github.com/yashkotave/DSA-Practice/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/yashkotave/DSA-Practice/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yashkotave/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/yashkotave/DSA-Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3713-longest-balanced-substring-i](https://github.com/yashkotave/DSA-Practice/tree/master/3713-longest-balanced-substring-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/yashkotave/DSA-Practice/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Math
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/yashkotave/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/yashkotave/DSA-Practice/tree/master/0237-delete-node-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/yashkotave/DSA-Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/yashkotave/DSA-Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Array
 |  |
 | ------- |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2818-apply-operations-to-maximize-score](https://github.com/yashkotave/DSA-Practice/tree/master/2818-apply-operations-to-maximize-score) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yashkotave/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3169-count-days-without-meetings](https://github.com/yashkotave/DSA-Practice/tree/master/3169-count-days-without-meetings) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/yashkotave/DSA-Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/yashkotave/DSA-Practice/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Bit Manipulation
 |  |
@@ -633,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/yashkotave/DSA-Practice/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yashkotave/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2551-put-marbles-in-bags](https://github.com/yashkotave/DSA-Practice/tree/master/2551-put-marbles-in-bags) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/yashkotave/DSA-Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -677,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2460-apply-operations-to-an-array](https://github.com/yashkotave/DSA-Practice/tree/master/2460-apply-operations-to-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/yashkotave/DSA-Practice/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3100-water-bottles-ii](https://github.com/yashkotave/DSA-Practice/tree/master/3100-water-bottles-ii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/yashkotave/DSA-Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/yashkotave/DSA-Practice/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/yashkotave/DSA-Practice/tree/master/3614-process-string-with-special-operations-ii) |
 ## Enumeration
@@ -857,8 +862,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/yashkotave/DSA-Practice/tree/master/0493-reverse-pairs) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/yashkotave/DSA-Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/yashkotave/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/yashkotave/DSA-Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
