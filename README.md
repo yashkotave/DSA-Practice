@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/yashkotave/DSA-Practice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/yashkotave/DSA-Practice/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/yashkotave/DSA-Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/yashkotave/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/yashkotave/DSA-Practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2396-strictly-palindromic-number](https://github.com/yashkotave/DSA-Practice/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/yashkotave/DSA-Practice/tree/master/2413-smallest-even-multiple) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/yashkotave/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/yashkotave/DSA-Practice/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/yashkotave/DSA-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/yashkotave/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/yashkotave/DSA-Practice/tree/master/1980-find-unique-binary-string) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/yashkotave/DSA-Practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/yashkotave/DSA-Practice/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -645,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/yashkotave/DSA-Practice/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/yashkotave/DSA-Practice/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/yashkotave/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/yashkotave/DSA-Practice/tree/master/2413-smallest-even-multiple) |
 | [2818-apply-operations-to-maximize-score](https://github.com/yashkotave/DSA-Practice/tree/master/2818-apply-operations-to-maximize-score) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/yashkotave/DSA-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
