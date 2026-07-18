@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/yashkotave/DSA-Practice/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/yashkotave/DSA-Practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/yashkotave/DSA-Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1408-string-matching-in-an-array](https://github.com/yashkotave/DSA-Practice/tree/master/1408-string-matching-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yashkotave/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/yashkotave/DSA-Practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/yashkotave/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/yashkotave/DSA-Practice/tree/master/1189-maximum-number-of-balloons) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/yashkotave/DSA-Practice/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/yashkotave/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1408-string-matching-in-an-array](https://github.com/yashkotave/DSA-Practice/tree/master/1408-string-matching-in-an-array) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/yashkotave/DSA-Practice/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/yashkotave/DSA-Practice/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/yashkotave/DSA-Practice/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -548,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/yashkotave/DSA-Practice/tree/master/0214-shortest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/yashkotave/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
 | [0796-rotate-string](https://github.com/yashkotave/DSA-Practice/tree/master/0796-rotate-string) |
+| [1408-string-matching-in-an-array](https://github.com/yashkotave/DSA-Practice/tree/master/1408-string-matching-in-an-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/yashkotave/DSA-Practice/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Hash Function
 |  |
