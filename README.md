@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/yashkotave/DSA-Practice/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/yashkotave/DSA-Practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/yashkotave/DSA-Practice/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/yashkotave/DSA-Practice/tree/master/0371-sum-of-two-integers) |
 | [0396-rotate-function](https://github.com/yashkotave/DSA-Practice/tree/master/0396-rotate-function) |
 | [0400-nth-digit](https://github.com/yashkotave/DSA-Practice/tree/master/0400-nth-digit) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/yashkotave/DSA-Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/yashkotave/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/yashkotave/DSA-Practice/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/yashkotave/DSA-Practice/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/yashkotave/DSA-Practice/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/yashkotave/DSA-Practice/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/yashkotave/DSA-Practice/tree/master/0401-binary-watch) |
 | [0672-bulb-switcher-ii](https://github.com/yashkotave/DSA-Practice/tree/master/0672-bulb-switcher-ii) |
