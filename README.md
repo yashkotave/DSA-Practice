@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/yashkotave/DSA-Practice/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/yashkotave/DSA-Practice/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/yashkotave/DSA-Practice/tree/master/0401-binary-watch) |
+| [0476-number-complement](https://github.com/yashkotave/DSA-Practice/tree/master/0476-number-complement) |
 | [0672-bulb-switcher-ii](https://github.com/yashkotave/DSA-Practice/tree/master/0672-bulb-switcher-ii) |
 | [1009-complement-of-base-10-integer](https://github.com/yashkotave/DSA-Practice/tree/master/1009-complement-of-base-10-integer) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/yashkotave/DSA-Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
