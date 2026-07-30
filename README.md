@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/yashkotave/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/yashkotave/DSA-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/yashkotave/DSA-Practice/tree/master/0646-maximum-length-of-pair-chain) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/yashkotave/DSA-Practice/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/yashkotave/DSA-Practice/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/yashkotave/DSA-Practice/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/yashkotave/DSA-Practice/tree/master/0704-binary-search) |
