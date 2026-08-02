@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0672-bulb-switcher-ii](https://github.com/yashkotave/DSA-Practice/tree/master/0672-bulb-switcher-ii) |
 | [0788-rotated-digits](https://github.com/yashkotave/DSA-Practice/tree/master/0788-rotated-digits) |
 | [0869-reordered-power-of-2](https://github.com/yashkotave/DSA-Practice/tree/master/0869-reordered-power-of-2) |
+| [0877-stone-game](https://github.com/yashkotave/DSA-Practice/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/yashkotave/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
 | [0976-largest-perimeter-triangle](https://github.com/yashkotave/DSA-Practice/tree/master/0976-largest-perimeter-triangle) |
 | [1025-divisor-game](https://github.com/yashkotave/DSA-Practice/tree/master/1025-divisor-game) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/yashkotave/DSA-Practice/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/yashkotave/DSA-Practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/yashkotave/DSA-Practice/tree/master/0860-lemonade-change) |
+| [0877-stone-game](https://github.com/yashkotave/DSA-Practice/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/yashkotave/DSA-Practice/tree/master/0881-boats-to-save-people) |
 | [0896-monotonic-array](https://github.com/yashkotave/DSA-Practice/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/yashkotave/DSA-Practice/tree/master/0904-fruit-into-baskets) |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/yashkotave/DSA-Practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0746-min-cost-climbing-stairs](https://github.com/yashkotave/DSA-Practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/yashkotave/DSA-Practice/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/yashkotave/DSA-Practice/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/yashkotave/DSA-Practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [1025-divisor-game](https://github.com/yashkotave/DSA-Practice/tree/master/1025-divisor-game) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/yashkotave/DSA-Practice/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -754,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/yashkotave/DSA-Practice/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/yashkotave/DSA-Practice/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/yashkotave/DSA-Practice/tree/master/1025-divisor-game) |
 ## Memoization
 |  |
