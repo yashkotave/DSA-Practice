@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/yashkotave/DSA-Practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/yashkotave/DSA-Practice/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/yashkotave/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1748-sum-of-unique-elements](https://github.com/yashkotave/DSA-Practice/tree/master/1748-sum-of-unique-elements) |
 | [1796-second-largest-digit-in-a-string](https://github.com/yashkotave/DSA-Practice/tree/master/1796-second-largest-digit-in-a-string) |
 | [1980-find-unique-binary-string](https://github.com/yashkotave/DSA-Practice/tree/master/1980-find-unique-binary-string) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/yashkotave/DSA-Practice/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/yashkotave/DSA-Practice/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/yashkotave/DSA-Practice/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/yashkotave/DSA-Practice/tree/master/1732-find-the-highest-altitude) |
+| [1748-sum-of-unique-elements](https://github.com/yashkotave/DSA-Practice/tree/master/1748-sum-of-unique-elements) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/yashkotave/DSA-Practice/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/yashkotave/DSA-Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/yashkotave/DSA-Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/yashkotave/DSA-Practice/tree/master/1189-maximum-number-of-balloons) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/yashkotave/DSA-Practice/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/yashkotave/DSA-Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1748-sum-of-unique-elements](https://github.com/yashkotave/DSA-Practice/tree/master/1748-sum-of-unique-elements) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/yashkotave/DSA-Practice/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/yashkotave/DSA-Practice/tree/master/2351-first-letter-to-appear-twice) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/yashkotave/DSA-Practice/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
