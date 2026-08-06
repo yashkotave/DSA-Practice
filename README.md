@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/yashkotave/DSA-Practice/tree/master/2469-convert-the-temperature) |
 | [2818-apply-operations-to-maximize-score](https://github.com/yashkotave/DSA-Practice/tree/master/2818-apply-operations-to-maximize-score) |
 | [3100-water-bottles-ii](https://github.com/yashkotave/DSA-Practice/tree/master/3100-water-bottles-ii) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/yashkotave/DSA-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3492-maximum-containers-on-a-ship](https://github.com/yashkotave/DSA-Practice/tree/master/3492-maximum-containers-on-a-ship) |
 | [3536-maximum-product-of-two-digits](https://github.com/yashkotave/DSA-Practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/yashkotave/DSA-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -731,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/yashkotave/DSA-Practice/tree/master/0204-count-primes) |
 | [0869-reordered-power-of-2](https://github.com/yashkotave/DSA-Practice/tree/master/0869-reordered-power-of-2) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/yashkotave/DSA-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3713-longest-balanced-substring-i](https://github.com/yashkotave/DSA-Practice/tree/master/3713-longest-balanced-substring-i) |
 ## Divide and Conquer
 |  |
