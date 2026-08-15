@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/yashkotave/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/yashkotave/DSA-Practice/tree/master/0986-interval-list-intersections) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yashkotave/DSA-Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1046-last-stone-weight](https://github.com/yashkotave/DSA-Practice/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/yashkotave/DSA-Practice/tree/master/1051-height-checker) |
 | [1095-find-in-mountain-array](https://github.com/yashkotave/DSA-Practice/tree/master/1095-find-in-mountain-array) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/yashkotave/DSA-Practice/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -678,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/yashkotave/DSA-Practice/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/yashkotave/DSA-Practice/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/yashkotave/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/yashkotave/DSA-Practice/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/yashkotave/DSA-Practice/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yashkotave/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2551-put-marbles-in-bags](https://github.com/yashkotave/DSA-Practice/tree/master/2551-put-marbles-in-bags) |
