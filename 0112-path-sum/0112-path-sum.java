@@ -15,15 +15,15 @@
  */
 class Solution {
     public boolean hasPathSum(TreeNode root, int targetSum) {
-        if(root == null) return false;
-        if(root.left == null && root.right == null){
-
+        if (root == null) return false;
         
-            if(targetSum ==root.val ) return true;
-            else return false;
-
+        // If it's a leaf node, check if the remaining target matches its value
+        if (root.left == null && root.right == null) {
+            return targetSum == root.val;
         }
-      return hasPathSum(root.left,targetSum-root.val) || hasPathSum(root.right,targetSum-root.val);  
+        
+        // Recurse on subtrees with the reduced target sum
+        int remainingSum = targetSum - root.val;
+        return hasPathSum(root.left, remainingSum) || hasPathSum(root.right, remainingSum);
     }
-    
 }
