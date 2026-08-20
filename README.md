@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/yashkotave/DSA-Practice/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/yashkotave/DSA-Practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/yashkotave/DSA-Practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/yashkotave/DSA-Practice/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/yashkotave/DSA-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/yashkotave/DSA-Practice/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/yashkotave/DSA-Practice/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/yashkotave/DSA-Practice/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/yashkotave/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/yashkotave/DSA-Practice/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/yashkotave/DSA-Practice/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/yashkotave/DSA-Practice/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yashkotave/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Backtracking
