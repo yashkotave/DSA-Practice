@@ -1,35 +1,25 @@
 class Solution {
     public int[] maxSlidingWindow(int[] nums, int k) {
         int n = nums.length;
+        int[] ans = new int[n - k + 1];
+        Deque<Integer> dq = new ArrayDeque<>();
 
-
-        //initialize the dequeu and result arrray
-        //deque store indices not value;
-
-        Deque<Integer> deque = new ArrayDeque<>();
-        int[] result = new int[n-k+1];
-
-        //step 2 Setup deque for the first K elements
-        for( int i = 0; i<k; i++){
-            while(!deque.isEmpty() && nums[deque.peekLast()]<=nums[i]){
-                deque.pollLast();
+        for (int i = 0; i < n; i++) {
+            if (!dq.isEmpty() && dq.peekFirst() == i - k) {
+                dq.pollFirst();
             }
-            deque.offerLast(i);
-        }
-        result[0] =  nums[deque.peekFirst()];
 
-        for ( int i = k ; i<n;i++){
-            if(deque.peekFirst()<=i-k){
-                deque.pollFirst();
+            while (!dq.isEmpty() && nums[dq.peekLast()] <= nums[i]) {
+                dq.pollLast();
             }
-        while(!deque.isEmpty() && nums[deque.peekLast()]<=nums[i]){
-            deque.pollLast();
-        }
-        deque.offerLast(i);
 
-        result[i-k+1] = nums[deque.peekFirst()];
+            dq.offerLast(i);
+
+            if (i >= k - 1) {
+                ans[i - k + 1] = nums[dq.peekFirst()];
+            }
         }
 
-        return result;
+        return ans;
     }
 }
