@@ -1,33 +1,34 @@
 class Solution {
+    public static boolean canShip(int[] weights, int days , int capacity){
+        int reqD = 1;
+        int currL =0;
+        for(int w : weights){
+            if(currL + w > capacity){
+                reqD++;
+                currL =0;
+            }
+            currL += w;
+        }
+        return reqD<=days;
+    }
     public int shipWithinDays(int[] weights, int days) {
-        int minCap =0;
-        int maxCap =0;
+       int low=0;
+       int high =0;
+        for(int w : weights){
+            if(w>low){
+                low =w;
+            }
+            high += w;
+        }
 
-        for(int w : weights){ 
-             //find range
-            minCap = Math.max(minCap,w);
-            //max element sum
-            maxCap += w;
-        }
-        //apply binary search
-         
-        while(minCap<maxCap){
-            int mid = minCap+(maxCap-minCap)/2;
-            int requiredDays =1;
-            int currLoad = 0;
-            for(int w: weights){
-                if(currLoad+w>mid){
-                    requiredDays++;
-                    currLoad = 0;
-                }
-                currLoad += w;
-            }
-            if(requiredDays>days){
-                minCap = mid+1;
+        while(low<high){
+            int mid = low+(high-low)/2;
+            if(canShip(weights,days,mid)){
+                high = mid;
             }else{
-                maxCap= mid;
+                low = mid+1;
             }
         }
-        return minCap;
+        return low;
     }
 }
