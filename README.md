@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/yashkotave/DSA-Practice/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/yashkotave/DSA-Practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/yashkotave/DSA-Practice/tree/master/0342-power-of-four) |
+| [0365-water-and-jug-problem](https://github.com/yashkotave/DSA-Practice/tree/master/0365-water-and-jug-problem) |
 | [0371-sum-of-two-integers](https://github.com/yashkotave/DSA-Practice/tree/master/0371-sum-of-two-integers) |
 | [0396-rotate-function](https://github.com/yashkotave/DSA-Practice/tree/master/0396-rotate-function) |
 | [0400-nth-digit](https://github.com/yashkotave/DSA-Practice/tree/master/0400-nth-digit) |
@@ -898,6 +899,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/yashkotave/DSA-Practice/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/yashkotave/DSA-Practice/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/yashkotave/DSA-Practice/tree/master/0322-coin-change) |
+| [0365-water-and-jug-problem](https://github.com/yashkotave/DSA-Practice/tree/master/0365-water-and-jug-problem) |
 | [0404-sum-of-left-leaves](https://github.com/yashkotave/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/yashkotave/DSA-Practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/yashkotave/DSA-Practice/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -918,6 +920,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/yashkotave/DSA-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/yashkotave/DSA-Practice/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yashkotave/DSA-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0365-water-and-jug-problem](https://github.com/yashkotave/DSA-Practice/tree/master/0365-water-and-jug-problem) |
 | [0404-sum-of-left-leaves](https://github.com/yashkotave/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/yashkotave/DSA-Practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/yashkotave/DSA-Practice/tree/master/0543-diameter-of-binary-tree) |
@@ -992,4 +995,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/yashkotave/DSA-Practice/tree/master/0239-sliding-window-maximum) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/yashkotave/DSA-Practice/tree/master/0365-water-and-jug-problem) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/yashkotave/DSA-Practice/tree/master/0365-water-and-jug-problem) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/yashkotave/DSA-Practice/tree/master/0365-water-and-jug-problem) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/yashkotave/DSA-Practice/tree/master/0365-water-and-jug-problem) |
 <!---LeetCode Topics End-->
