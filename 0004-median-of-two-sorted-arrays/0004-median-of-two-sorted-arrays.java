@@ -16,14 +16,17 @@ class Solution {
             int r2 = (py==n) ? Integer.MAX_VALUE : nums2[py];
 
             if(l1<=r2 && l2<=r1){
+                // Correct partition foundelse 
                 if((m+n) %2 == 1){
                     return (double) Math.max(l1,l2);
                 }else{
                     return (Math.max(l1,l2) + Math.min(r1,r2))/2.0;
                 }
                 }else if(l1>l2){
+                    // Too many elements from nums1, shift left
                     high = px-1;
                 }else{
+                    // Too few elements from nums1, shift right
                     low = px+1;
                 }
             }
