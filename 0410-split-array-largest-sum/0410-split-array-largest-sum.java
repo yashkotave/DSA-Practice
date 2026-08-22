@@ -1,39 +1,41 @@
 class Solution {
-    public int splitArray(int[] nums, int k) {
-        int start = 0;
-        int end = 0;
+    private int countSubarrays(int[] nums, long maxAllowedSum) {
+        int subarrays = 1;
+        long currentSum = 0;
 
-        // Calculate the initial values for start and end
-        for (int i = 0; i < nums.length; i++) {
-            start = Math.max(start, nums[i]); // Maximum single element
-            end += nums[i]; // Sum of all elements
-        }
-
-        // Binary search between start and end
-        while (start < end) {
-            int mid = start + (end - start) / 2;
-
-            // Calculate the number of pieces required for the current mid
-            int sum = 0;
-            int pieces = 1;
-            for (int num : nums) {
-                if (sum + num > mid) {
-                    // Start a new subarray
-                    sum = num;
-                    pieces++;
-                } else {
-                    sum += num;
-                }
-            }
-
-            // Adjust the binary search range
-            if (pieces > k) {
-                start = mid + 1; // Increase the subarray sum limit
+        for (int x : nums) {
+            if (currentSum + x > maxAllowedSum) {
+                subarrays++;
+                currentSum = x;
             } else {
-                end = mid; // Decrease the subarray sum limit
+                currentSum += x;
+            }
+        }
+        return subarrays;
+    }
+
+    public int splitArray(int[] nums, int k) {
+        long low = 0;
+        long high = 0;
+
+        for (int x : nums) {
+            low = Math.max(low, (long) x);
+            high += x;
+        }
+
+        long ans = high;
+
+        while (low <= high) {
+            long mid = low + (high - low) / 2;
+
+            if (countSubarrays(nums, mid) <= k) {
+                ans = mid;
+                high = mid - 1;
+            } else {
+                low = mid + 1;
             }
         }
 
-        return end; // Or start, as they are equal at this point
+        return (int) ans;
     }
 }
