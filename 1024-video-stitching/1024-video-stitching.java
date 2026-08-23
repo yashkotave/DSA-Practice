@@ -17,13 +17,16 @@ class Solution {
       int i =0;
       int n = clips.length;
       while(currEnd< time){
+        // Explore all clips that can attach to our current covered boundary
         while(i<n && clips[i][0]<= currEnd){
             maxReach = Math.max(maxReach,clips[i][1]);
             i++;
         }
+        // If we couldn't extend our boundary forward, a gap exists
         if(maxReach<= currEnd){
             return -1;
-        }   
+        }  
+        // Greedily commit to the clip providing maximum reach 
         currEnd = maxReach;
         totalClips++;
 
