@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/yashkotave/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/yashkotave/DSA-Practice/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2396-strictly-palindromic-number](https://github.com/yashkotave/DSA-Practice/tree/master/2396-strictly-palindromic-number) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/yashkotave/DSA-Practice/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2460-apply-operations-to-an-array](https://github.com/yashkotave/DSA-Practice/tree/master/2460-apply-operations-to-an-array) |
 | [2540-minimum-common-value](https://github.com/yashkotave/DSA-Practice/tree/master/2540-minimum-common-value) |
 ## Linked List
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/yashkotave/DSA-Practice/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/yashkotave/DSA-Practice/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/yashkotave/DSA-Practice/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/yashkotave/DSA-Practice/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/yashkotave/DSA-Practice/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2460-apply-operations-to-an-array](https://github.com/yashkotave/DSA-Practice/tree/master/2460-apply-operations-to-an-array) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/yashkotave/DSA-Practice/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/yashkotave/DSA-Practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/yashkotave/DSA-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/yashkotave/DSA-Practice/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/yashkotave/DSA-Practice/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2551-put-marbles-in-bags](https://github.com/yashkotave/DSA-Practice/tree/master/2551-put-marbles-in-bags) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/yashkotave/DSA-Practice/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/yashkotave/DSA-Practice/tree/master/2780-minimum-index-of-a-valid-split) |
@@ -698,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/yashkotave/DSA-Practice/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/yashkotave/DSA-Practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/yashkotave/DSA-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/yashkotave/DSA-Practice/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2551-put-marbles-in-bags](https://github.com/yashkotave/DSA-Practice/tree/master/2551-put-marbles-in-bags) |
 | [2818-apply-operations-to-maximize-score](https://github.com/yashkotave/DSA-Practice/tree/master/2818-apply-operations-to-maximize-score) |
 ## Prefix Sum
@@ -713,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/yashkotave/DSA-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/yashkotave/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/yashkotave/DSA-Practice/tree/master/1732-find-the-highest-altitude) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/yashkotave/DSA-Practice/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/yashkotave/DSA-Practice/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 ## Interactive
 |  |
@@ -732,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/yashkotave/DSA-Practice/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/yashkotave/DSA-Practice/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yashkotave/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/yashkotave/DSA-Practice/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2551-put-marbles-in-bags](https://github.com/yashkotave/DSA-Practice/tree/master/2551-put-marbles-in-bags) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/yashkotave/DSA-Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Number Theory
