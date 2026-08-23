@@ -481,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/yashkotave/DSA-Practice/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/yashkotave/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/yashkotave/DSA-Practice/tree/master/0058-length-of-last-word) |
+| [0072-edit-distance](https://github.com/yashkotave/DSA-Practice/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/yashkotave/DSA-Practice/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/yashkotave/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/yashkotave/DSA-Practice/tree/master/0139-word-break) |
@@ -576,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/yashkotave/DSA-Practice/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/yashkotave/DSA-Practice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/yashkotave/DSA-Practice/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/yashkotave/DSA-Practice/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/yashkotave/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashkotave/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashkotave/DSA-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
