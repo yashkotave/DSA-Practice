@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-second-largest-digit-in-a-string](https://github.com/yashkotave/DSA-Practice/tree/master/1796-second-largest-digit-in-a-string) |
 | [1980-find-unique-binary-string](https://github.com/yashkotave/DSA-Practice/tree/master/1980-find-unique-binary-string) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/yashkotave/DSA-Practice/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/yashkotave/DSA-Practice/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2351-first-letter-to-appear-twice](https://github.com/yashkotave/DSA-Practice/tree/master/2351-first-letter-to-appear-twice) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/yashkotave/DSA-Practice/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2540-minimum-common-value](https://github.com/yashkotave/DSA-Practice/tree/master/2540-minimum-common-value) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/yashkotave/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/yashkotave/DSA-Practice/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/yashkotave/DSA-Practice/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/yashkotave/DSA-Practice/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/yashkotave/DSA-Practice/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/yashkotave/DSA-Practice/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/yashkotave/DSA-Practice/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
