@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/yashkotave/DSA-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/yashkotave/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/yashkotave/DSA-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/yashkotave/DSA-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/yashkotave/DSA-Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/yashkotave/DSA-Practice/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/yashkotave/DSA-Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/yashkotave/DSA-Practice/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/yashkotave/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/yashkotave/DSA-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/yashkotave/DSA-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/yashkotave/DSA-Practice/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/yashkotave/DSA-Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0621-task-scheduler](https://github.com/yashkotave/DSA-Practice/tree/master/0621-task-scheduler) |
@@ -673,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/yashkotave/DSA-Practice/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/yashkotave/DSA-Practice/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/yashkotave/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/yashkotave/DSA-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/yashkotave/DSA-Practice/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/yashkotave/DSA-Practice/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/yashkotave/DSA-Practice/tree/master/0646-maximum-length-of-pair-chain) |
