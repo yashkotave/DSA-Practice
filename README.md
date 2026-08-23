@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/yashkotave/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/yashkotave/DSA-Practice/tree/master/0986-interval-list-intersections) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yashkotave/DSA-Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1024-video-stitching](https://github.com/yashkotave/DSA-Practice/tree/master/1024-video-stitching) |
 | [1046-last-stone-weight](https://github.com/yashkotave/DSA-Practice/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/yashkotave/DSA-Practice/tree/master/1051-height-checker) |
 | [1095-find-in-mountain-array](https://github.com/yashkotave/DSA-Practice/tree/master/1095-find-in-mountain-array) |
@@ -575,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/yashkotave/DSA-Practice/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/yashkotave/DSA-Practice/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/yashkotave/DSA-Practice/tree/master/0918-maximum-sum-circular-subarray) |
+| [1024-video-stitching](https://github.com/yashkotave/DSA-Practice/tree/master/1024-video-stitching) |
 | [1025-divisor-game](https://github.com/yashkotave/DSA-Practice/tree/master/1025-divisor-game) |
 | [1143-longest-common-subsequence](https://github.com/yashkotave/DSA-Practice/tree/master/1143-longest-common-subsequence) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/yashkotave/DSA-Practice/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -682,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/yashkotave/DSA-Practice/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/yashkotave/DSA-Practice/tree/master/0881-boats-to-save-people) |
 | [0976-largest-perimeter-triangle](https://github.com/yashkotave/DSA-Practice/tree/master/0976-largest-perimeter-triangle) |
+| [1024-video-stitching](https://github.com/yashkotave/DSA-Practice/tree/master/1024-video-stitching) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/yashkotave/DSA-Practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/yashkotave/DSA-Practice/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/yashkotave/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
