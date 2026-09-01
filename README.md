@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/yashkotave/DSA-Practice/tree/master/0371-sum-of-two-integers) |
 | [0396-rotate-function](https://github.com/yashkotave/DSA-Practice/tree/master/0396-rotate-function) |
 | [0400-nth-digit](https://github.com/yashkotave/DSA-Practice/tree/master/0400-nth-digit) |
+| [0412-fizz-buzz](https://github.com/yashkotave/DSA-Practice/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/yashkotave/DSA-Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/yashkotave/DSA-Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0504-base-7](https://github.com/yashkotave/DSA-Practice/tree/master/0504-base-7) |
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/yashkotave/DSA-Practice/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/yashkotave/DSA-Practice/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/yashkotave/DSA-Practice/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/yashkotave/DSA-Practice/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/yashkotave/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/yashkotave/DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0504-base-7](https://github.com/yashkotave/DSA-Practice/tree/master/0504-base-7) |
@@ -812,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/yashkotave/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/yashkotave/DSA-Practice/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/yashkotave/DSA-Practice/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/yashkotave/DSA-Practice/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/yashkotave/DSA-Practice/tree/master/0682-baseball-game) |
 | [1094-car-pooling](https://github.com/yashkotave/DSA-Practice/tree/master/1094-car-pooling) |
