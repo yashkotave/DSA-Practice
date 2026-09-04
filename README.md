@@ -370,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2818-apply-operations-to-maximize-score](https://github.com/yashkotave/DSA-Practice/tree/master/2818-apply-operations-to-maximize-score) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yashkotave/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3169-count-days-without-meetings](https://github.com/yashkotave/DSA-Practice/tree/master/3169-count-days-without-meetings) |
+| [3477-fruits-into-baskets-ii](https://github.com/yashkotave/DSA-Practice/tree/master/3477-fruits-into-baskets-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/yashkotave/DSA-Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/yashkotave/DSA-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/yashkotave/DSA-Practice/tree/master/3731-find-missing-elements) |
@@ -705,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/yashkotave/DSA-Practice/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yashkotave/DSA-Practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/yashkotave/DSA-Practice/tree/master/2540-minimum-common-value) |
+| [3477-fruits-into-baskets-ii](https://github.com/yashkotave/DSA-Practice/tree/master/3477-fruits-into-baskets-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -827,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2460-apply-operations-to-an-array](https://github.com/yashkotave/DSA-Practice/tree/master/2460-apply-operations-to-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/yashkotave/DSA-Practice/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3100-water-bottles-ii](https://github.com/yashkotave/DSA-Practice/tree/master/3100-water-bottles-ii) |
+| [3477-fruits-into-baskets-ii](https://github.com/yashkotave/DSA-Practice/tree/master/3477-fruits-into-baskets-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/yashkotave/DSA-Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/yashkotave/DSA-Practice/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/yashkotave/DSA-Practice/tree/master/3614-process-string-with-special-operations-ii) |
@@ -1021,6 +1024,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/yashkotave/DSA-Practice/tree/master/0493-reverse-pairs) |
+| [3477-fruits-into-baskets-ii](https://github.com/yashkotave/DSA-Practice/tree/master/3477-fruits-into-baskets-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -1029,6 +1033,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/yashkotave/DSA-Practice/tree/master/0493-reverse-pairs) |
+| [3477-fruits-into-baskets-ii](https://github.com/yashkotave/DSA-Practice/tree/master/3477-fruits-into-baskets-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/yashkotave/DSA-Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Union-Find
 |  |
