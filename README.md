@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/yashkotave/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0672-bulb-switcher-ii](https://github.com/yashkotave/DSA-Practice/tree/master/0672-bulb-switcher-ii) |
 | [0788-rotated-digits](https://github.com/yashkotave/DSA-Practice/tree/master/0788-rotated-digits) |
+| [0836-rectangle-overlap](https://github.com/yashkotave/DSA-Practice/tree/master/0836-rectangle-overlap) |
 | [0869-reordered-power-of-2](https://github.com/yashkotave/DSA-Practice/tree/master/0869-reordered-power-of-2) |
 | [0877-stone-game](https://github.com/yashkotave/DSA-Practice/tree/master/0877-stone-game) |
 | [0908-smallest-range-i](https://github.com/yashkotave/DSA-Practice/tree/master/0908-smallest-range-i) |
@@ -910,6 +911,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/yashkotave/DSA-Practice/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/yashkotave/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
 ## Tree
 |  |
