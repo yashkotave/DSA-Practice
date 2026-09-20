@@ -553,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2744-find-maximum-number-of-string-pairs](https://github.com/yashkotave/DSA-Practice/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2833-furthest-point-from-origin](https://github.com/yashkotave/DSA-Practice/tree/master/2833-furthest-point-from-origin) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/yashkotave/DSA-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/yashkotave/DSA-Practice/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/yashkotave/DSA-Practice/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/yashkotave/DSA-Practice/tree/master/3614-process-string-with-special-operations-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/yashkotave/DSA-Practice/tree/master/3713-longest-balanced-substring-i) |
@@ -838,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2744-find-maximum-number-of-string-pairs](https://github.com/yashkotave/DSA-Practice/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3100-water-bottles-ii](https://github.com/yashkotave/DSA-Practice/tree/master/3100-water-bottles-ii) |
 | [3477-fruits-into-baskets-ii](https://github.com/yashkotave/DSA-Practice/tree/master/3477-fruits-into-baskets-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/yashkotave/DSA-Practice/tree/master/3498-reverse-degree-of-a-string) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/yashkotave/DSA-Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/yashkotave/DSA-Practice/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/yashkotave/DSA-Practice/tree/master/3614-process-string-with-special-operations-ii) |
