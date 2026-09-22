@@ -1123,6 +1123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/yashkotave/DSA-Practice/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/yashkotave/DSA-Practice/tree/master/0595-big-countries) |
 | [0610-triangle-judgement](https://github.com/yashkotave/DSA-Practice/tree/master/0610-triangle-judgement) |
+| [1075-project-employees-i](https://github.com/yashkotave/DSA-Practice/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/yashkotave/DSA-Practice/tree/master/1148-article-views-i) |
 | [1251-average-selling-price](https://github.com/yashkotave/DSA-Practice/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/yashkotave/DSA-Practice/tree/master/1280-students-and-examinations) |
