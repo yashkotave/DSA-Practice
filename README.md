@@ -738,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/yashkotave/DSA-Practice/tree/master/0976-largest-perimeter-triangle) |
 | [1024-video-stitching](https://github.com/yashkotave/DSA-Practice/tree/master/1024-video-stitching) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/yashkotave/DSA-Practice/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1382-balance-a-binary-search-tree](https://github.com/yashkotave/DSA-Practice/tree/master/1382-balance-a-binary-search-tree) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/yashkotave/DSA-Practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/yashkotave/DSA-Practice/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/yashkotave/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -865,6 +866,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/yashkotave/DSA-Practice/tree/master/0493-reverse-pairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/yashkotave/DSA-Practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/yashkotave/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
+| [1382-balance-a-binary-search-tree](https://github.com/yashkotave/DSA-Practice/tree/master/1382-balance-a-binary-search-tree) |
 ## Queue
 |  |
 | ------- |
@@ -945,6 +947,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/yashkotave/DSA-Practice/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0872-leaf-similar-trees](https://github.com/yashkotave/DSA-Practice/tree/master/0872-leaf-similar-trees) |
 | [1302-deepest-leaves-sum](https://github.com/yashkotave/DSA-Practice/tree/master/1302-deepest-leaves-sum) |
+| [1382-balance-a-binary-search-tree](https://github.com/yashkotave/DSA-Practice/tree/master/1382-balance-a-binary-search-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/yashkotave/DSA-Practice/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Design
 |  |
@@ -958,6 +961,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/yashkotave/DSA-Practice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/yashkotave/DSA-Practice/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/yashkotave/DSA-Practice/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1382-balance-a-binary-search-tree](https://github.com/yashkotave/DSA-Practice/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -986,6 +990,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/yashkotave/DSA-Practice/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0872-leaf-similar-trees](https://github.com/yashkotave/DSA-Practice/tree/master/0872-leaf-similar-trees) |
 | [1302-deepest-leaves-sum](https://github.com/yashkotave/DSA-Practice/tree/master/1302-deepest-leaves-sum) |
+| [1382-balance-a-binary-search-tree](https://github.com/yashkotave/DSA-Practice/tree/master/1382-balance-a-binary-search-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/yashkotave/DSA-Practice/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Data Stream
 |  |
@@ -1033,6 +1038,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0672-bulb-switcher-ii](https://github.com/yashkotave/DSA-Practice/tree/master/0672-bulb-switcher-ii) |
 | [0872-leaf-similar-trees](https://github.com/yashkotave/DSA-Practice/tree/master/0872-leaf-similar-trees) |
 | [1302-deepest-leaves-sum](https://github.com/yashkotave/DSA-Practice/tree/master/1302-deepest-leaves-sum) |
+| [1382-balance-a-binary-search-tree](https://github.com/yashkotave/DSA-Practice/tree/master/1382-balance-a-binary-search-tree) |
 ## Sweep Line
 |  |
 | ------- |
