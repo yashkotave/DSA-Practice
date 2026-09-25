@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/yashkotave/DSA-Practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/yashkotave/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/yashkotave/DSA-Practice/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1528-shuffle-string](https://github.com/yashkotave/DSA-Practice/tree/master/1528-shuffle-string) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/yashkotave/DSA-Practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1552-magnetic-force-between-two-balls](https://github.com/yashkotave/DSA-Practice/tree/master/1552-magnetic-force-between-two-balls) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/yashkotave/DSA-Practice/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -539,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/yashkotave/DSA-Practice/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/yashkotave/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1408-string-matching-in-an-array](https://github.com/yashkotave/DSA-Practice/tree/master/1408-string-matching-in-an-array) |
+| [1528-shuffle-string](https://github.com/yashkotave/DSA-Practice/tree/master/1528-shuffle-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/yashkotave/DSA-Practice/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/yashkotave/DSA-Practice/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/yashkotave/DSA-Practice/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
