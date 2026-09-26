@@ -1027,6 +1027,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/yashkotave/DSA-Practice/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/yashkotave/DSA-Practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0672-bulb-switcher-ii](https://github.com/yashkotave/DSA-Practice/tree/master/0672-bulb-switcher-ii) |
+| [0841-keys-and-rooms](https://github.com/yashkotave/DSA-Practice/tree/master/0841-keys-and-rooms) |
 | [1302-deepest-leaves-sum](https://github.com/yashkotave/DSA-Practice/tree/master/1302-deepest-leaves-sum) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/yashkotave/DSA-Practice/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
@@ -1055,6 +1056,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/yashkotave/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/yashkotave/DSA-Practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0672-bulb-switcher-ii](https://github.com/yashkotave/DSA-Practice/tree/master/0672-bulb-switcher-ii) |
+| [0841-keys-and-rooms](https://github.com/yashkotave/DSA-Practice/tree/master/0841-keys-and-rooms) |
 | [0872-leaf-similar-trees](https://github.com/yashkotave/DSA-Practice/tree/master/0872-leaf-similar-trees) |
 | [1302-deepest-leaves-sum](https://github.com/yashkotave/DSA-Practice/tree/master/1302-deepest-leaves-sum) |
 | [1382-balance-a-binary-search-tree](https://github.com/yashkotave/DSA-Practice/tree/master/1382-balance-a-binary-search-tree) |
@@ -1178,4 +1180,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/yashkotave/DSA-Practice/tree/master/0547-number-of-provinces) |
+| [0841-keys-and-rooms](https://github.com/yashkotave/DSA-Practice/tree/master/0841-keys-and-rooms) |
 <!---LeetCode Topics End-->
