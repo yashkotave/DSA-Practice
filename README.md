@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/yashkotave/DSA-Practice/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/yashkotave/DSA-Practice/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/yashkotave/DSA-Practice/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/yashkotave/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/yashkotave/DSA-Practice/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/yashkotave/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yashkotave/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
@@ -823,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/yashkotave/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/yashkotave/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/yashkotave/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/yashkotave/DSA-Practice/tree/master/0200-number-of-islands) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/yashkotave/DSA-Practice/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/yashkotave/DSA-Practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/yashkotave/DSA-Practice/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -1018,6 +1020,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/yashkotave/DSA-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/yashkotave/DSA-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/yashkotave/DSA-Practice/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/yashkotave/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/yashkotave/DSA-Practice/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/yashkotave/DSA-Practice/tree/master/0322-coin-change) |
 | [0365-water-and-jug-problem](https://github.com/yashkotave/DSA-Practice/tree/master/0365-water-and-jug-problem) |
@@ -1043,6 +1046,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/yashkotave/DSA-Practice/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yashkotave/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yashkotave/DSA-Practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/yashkotave/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/yashkotave/DSA-Practice/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/yashkotave/DSA-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/yashkotave/DSA-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -1092,6 +1096,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/yashkotave/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/yashkotave/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/yashkotave/DSA-Practice/tree/master/0547-number-of-provinces) |
 ## Doubly-Linked List
 |  |
