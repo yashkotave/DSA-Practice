@@ -543,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/yashkotave/DSA-Practice/tree/master/1408-string-matching-in-an-array) |
 | [1528-shuffle-string](https://github.com/yashkotave/DSA-Practice/tree/master/1528-shuffle-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/yashkotave/DSA-Practice/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yashkotave/DSA-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/yashkotave/DSA-Practice/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/yashkotave/DSA-Practice/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/yashkotave/DSA-Practice/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -653,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/yashkotave/DSA-Practice/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/yashkotave/DSA-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/yashkotave/DSA-Practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yashkotave/DSA-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/yashkotave/DSA-Practice/tree/master/2390-removing-stars-from-a-string) |
 | [2818-apply-operations-to-maximize-score](https://github.com/yashkotave/DSA-Practice/tree/master/2818-apply-operations-to-maximize-score) |
 ## Monotonic Stack
@@ -1186,4 +1188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/yashkotave/DSA-Practice/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/yashkotave/DSA-Practice/tree/master/0841-keys-and-rooms) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yashkotave/DSA-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
