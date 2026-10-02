@@ -1191,6 +1191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1757-recyclable-and-low-fat-products](https://github.com/yashkotave/DSA-Practice/tree/master/1757-recyclable-and-low-fat-products) |
 | [1873-calculate-special-bonus](https://github.com/yashkotave/DSA-Practice/tree/master/1873-calculate-special-bonus) |
 | [1890-the-latest-login-in-2020](https://github.com/yashkotave/DSA-Practice/tree/master/1890-the-latest-login-in-2020) |
+| [3436-find-valid-emails](https://github.com/yashkotave/DSA-Practice/tree/master/3436-find-valid-emails) |
 ## Graph Theory
 |  |
 | ------- |
