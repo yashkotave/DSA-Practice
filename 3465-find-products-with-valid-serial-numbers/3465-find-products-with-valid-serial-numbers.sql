@@ -1,5 +1,4 @@
 # Write your MySQL query statement below
-/* Write your T-SQL query statement below */
 SELECT
     product_id,
     product_name,
@@ -10,3 +9,4 @@ WHERE REGEXP_LIKE(
     '(^|[^A-Za-z0-9])SN[0-9]{4}-[0-9]{4}([^A-Za-z0-9]|$)'
 )
 ORDER BY product_id;
+#colate ki help se kewal upercase ate h lowercasse reject hho  jate h
