@@ -378,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/yashkotave/DSA-Practice/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/yashkotave/DSA-Practice/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/yashkotave/DSA-Practice/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/yashkotave/DSA-Practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/yashkotave/DSA-Practice/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2818-apply-operations-to-maximize-score](https://github.com/yashkotave/DSA-Practice/tree/master/2818-apply-operations-to-maximize-score) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/yashkotave/DSA-Practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -879,6 +880,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/yashkotave/DSA-Practice/tree/master/0204-count-primes) |
 | [0869-reordered-power-of-2](https://github.com/yashkotave/DSA-Practice/tree/master/0869-reordered-power-of-2) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/yashkotave/DSA-Practice/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/yashkotave/DSA-Practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/yashkotave/DSA-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3713-longest-balanced-substring-i](https://github.com/yashkotave/DSA-Practice/tree/master/3713-longest-balanced-substring-i) |
 ## Divide and Conquer
